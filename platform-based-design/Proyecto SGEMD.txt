@@ -1,0 +1,1010 @@
+# Proyecto SGEMD
+
+## Requisitos previos
+
+- Node js
+- jsonwebtoken 9.0.2
+- bcryptjs 3.0.2
+
+## Base de datos
+
+### Descripción
+
+En este proyecto, se ha creado una base de datos utilizando Python, esta base de datos esta construida para ser un sistema de gestión de emprendimiento en la empresa Minuto de Dios.
+
+### Instrucciones
+
+1. La tabla usuarios de la base de datos debe contener un parámetro de Password, este parámetro contener una cadena de caracteres.
+2. Todos los errores de escritura deberán ser corregidos.
+3. Se deberá mantener la estructura de la base de datos.
+
+### Código Base
+
+
+```Python
+# init_db.py
+import mysql.connector as msql
+from mysql.connector import Error 
+
+try:
+    connection = msql.connect(
+        host="localhost",
+        port="3306",
+        user="root",
+        password=""
+    )
+
+    if connection.is_connected():
+        cursor = connection.cursor()
+        cursor.execute("CREATE DATABASE IF NOT EXISTS DB_SEGMED")
+        print("Base de datos creada exitosamente o ya existía.")
+
+        cursor.execute("USE DB_SEGMED")
+
+        # Tabla Modulos
+        create_Modulos = """
+        CREATE TABLE IF NOT EXISTS Modulos (
+            idModulos INT NOT NULL AUTO_INCREMENT,
+            Asistencia VARCHAR(45) NOT NULL,
+            Practicas VARCHAR(45) NOT NULL,
+            OpcionGrado VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idModulos)
+        ) 
+        """
+        cursor.execute(create_Modulos)
+
+        # Tabla Municipios
+        create_Municipios = """
+        CREATE TABLE IF NOT EXISTS Municipios (
+            idMunicipio INT NOT NULL,
+            Nombre VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idMunicipio)
+        ) 
+        """
+        cursor.execute(create_Municipios)
+
+        # Tabla ProgramaAcademico
+        create_ProgramaAcademico = """
+        CREATE TABLE IF NOT EXISTS ProgramaAcademico (
+            idProgramaAcademico INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idProgramaAcademico)
+        ) 
+        """
+        cursor.execute(create_ProgramaAcademico)
+
+        # Tabla Roles
+        create_Roles = """
+        CREATE TABLE IF NOT EXISTS Roles (
+            idRoles INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idRoles)
+        ) 
+        """
+        cursor.execute(create_Roles)
+
+        # Tabla TipoDocumentos
+        create_TipoDocumentos = """
+        CREATE TABLE IF NOT EXISTS TipoDocumentos (
+            idTipoDocumento INT NOT NULL AUTO_INCREMENT,
+            TipoDocumento VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idTipoDocumento)
+        ) 
+        """
+        cursor.execute(create_TipoDocumentos)
+
+        # Tabla TipoUsuarios
+        create_TipoUsuarios = """
+        CREATE TABLE IF NOT EXISTS TipoUsuarios (
+            idTipoUsuarios INT NOT NULL AUTO_INCREMENT,
+            TipodeUsuario VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idTipoUsuarios)
+        ) 
+        """
+        cursor.execute(create_TipoUsuarios)
+
+        # Tabla CentroUniversitarios
+        create_CentroUniversitarios = """
+        CREATE TABLE IF NOT EXISTS CentroUniversitarios (
+            idCentroUniversitarios INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idCentroUniversitarios)
+        ) 
+        """
+        cursor.execute(create_CentroUniversitarios)
+
+        # Tabla TipoPoblacion
+        create_TipoPoblacion = """
+        CREATE TABLE IF NOT EXISTS TipoPoblacion (
+            idTipoPoblacion INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idTipoPoblacion)
+        ) 
+        """
+        cursor.execute(create_TipoPoblacion)
+
+        # Tabla Usuarios con relaciones
+        create_Usuarios = """
+        CREATE TABLE IF NOT EXISTS Usuarios (
+            idUsuarios INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            CorreoInstitucional VARCHAR(45) NOT NULL,
+            CorreoPersonal VARCHAR(45) NOT NULL,
+            Celular VARCHAR(45) NOT NULL,
+            Telefono VARCHAR(45) NOT NULL,
+            Direcccion VARCHAR(45) NOT NULL,
+            Genero VARCHAR(45) NOT NULL,
+            EstadoCivil VARCHAR(45) NOT NULL,
+            FechaNacimiento DATE NOT NULL,
+            Modulos_idModulos INT,
+            Municipios_idMunicipio INT,
+            ProgramaAcademico_idProgramaAcademico INT,
+            Roles_idRoles1 INT,
+            TipoDocumentos_idTipoDocumento INT,
+            TipoUsuarios_idTipoUsuarios INT,
+            ProgramaAcademico_idProgramaAcademico1 INT NOT NULL,
+            CentroUniversitarios_idCentroUniversitarios INT NOT NULL,
+            Estado TINYINT NOT NULL,
+            Semestre VARCHAR(45) NOT NULL,
+            Modalidad VARCHAR(45) NOT NULL,
+            TipoPoblacion_idTipoPoblacion INT,
+            FechaCreacion DATE,
+            FechaActualizacion DATE,
+            PRIMARY KEY (idUsuarios),
+            INDEX fk_Usuarios_Modulos_idx (Modulos_idModulos),
+            INDEX fk_Usuarios_Municipios1_idx (Municipios_idMunicipio),
+            INDEX fk_Usuarios_ProgramaAcademico1_idx (ProgramaAcademico_idProgramaAcademico),
+            INDEX fk_Usuarios_Roles2_idx (Roles_idRoles1),
+            INDEX fk_Usuarios_TipoDocumentos1_idx (TipoDocumentos_idTipoDocumento),
+            INDEX fk_Usuarios_TipoUsuarios1_idx (TipoUsuarios_idTipoUsuarios),
+            INDEX fk_Usuarios_ProgramaAcademico2_idx (ProgramaAcademico_idProgramaAcademico1),
+            INDEX fk_Usuarios_CentroUniversitarios1_idx (CentroUniversitarios_idCentroUniversitarios),
+            INDEX fk_Usuarios_TipoPoblacion1_idx (TipoPoblacion_idTipoPoblacion),
+            CONSTRAINT fk_Usuarios_Modulos
+                FOREIGN KEY (Modulos_idModulos)
+                REFERENCES Modulos (idModulos),
+            CONSTRAINT fk_Usuarios_Municipios1
+                FOREIGN KEY (Municipios_idMunicipio)
+                REFERENCES Municipios (idMunicipio),
+            CONSTRAINT fk_Usuarios_ProgramaAcademico1
+                FOREIGN KEY (ProgramaAcademico_idProgramaAcademico)
+                REFERENCES ProgramaAcademico (idProgramaAcademico),
+            CONSTRAINT fk_Usuarios_Roles2
+                FOREIGN KEY (Roles_idRoles1)
+                REFERENCES Roles (idRoles),
+            CONSTRAINT fk_Usuarios_TipoDocumentos1
+                FOREIGN KEY (TipoDocumentos_idTipoDocumento)
+                REFERENCES TipoDocumentos (idTipoDocumento),
+            CONSTRAINT fk_Usuarios_TipoUsuarios1
+                FOREIGN KEY (TipoUsuarios_idTipoUsuarios)
+                REFERENCES TipoUsuarios (idTipoUsuarios),
+            CONSTRAINT fk_Usuarios_ProgramaAcademico2
+                FOREIGN KEY (ProgramaAcademico_idProgramaAcademico1)
+                REFERENCES ProgramaAcademico (idProgramaAcademico),
+            CONSTRAINT fk_Usuarios_CentroUniversitarios1
+                FOREIGN KEY (CentroUniversitarios_idCentroUniversitarios)
+                REFERENCES CentroUniversitarios (idCentroUniversitarios),
+            CONSTRAINT fk_Usuarios_TipoPoblacion1
+                FOREIGN KEY (TipoPoblacion_idTipoPoblacion)
+                REFERENCES TipoPoblacion (idTipoPoblacion)
+        ) 
+        """
+        cursor.execute(create_Usuarios)
+
+        # Tabla EtapadeEmpedimiento
+        create_EtapadeEmpedimiento = """
+        CREATE TABLE IF NOT EXISTS EtapadeEmpedimiento (
+            idEtapadeEmpedimiento INT NOT NULL AUTO_INCREMENT,
+            Estado TINYINT NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            TipoEtapa VARCHAR(45) NOT NULL,
+            PRIMARY KEY (idEtapadeEmpedimiento)
+        ) 
+        """
+        cursor.execute(create_EtapadeEmpedimiento)
+
+        # Tabla Emprendimiento
+        create_Emprendimiento = """
+        CREATE TABLE IF NOT EXISTS Emprendimiento (
+            idEmprendimiento INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            Descripcion VARCHAR(45) NOT NULL,
+            TipoEmprendimiento VARCHAR(45) NOT NULL,  -- Corregido de TipoEmpreedimiento
+            SectorProductivo VARCHAR(45) NOT NULL,    -- Corregido de SectorPruductivo
+            RedesSociales TINYINT NOT NULL,
+            Acompanamiento TINYINT NOT NULL,          -- Corregido de Acompañamiento (evita la ñ)
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            ActaCompromiso TEXT(150) NOT NULL,
+            EtapadeEmpedimiento_idEtapadeEmpedimiento INT NOT NULL,
+            PRIMARY KEY (idEmprendimiento),
+            INDEX fk_Emprendimiento_EtapadeEmpedimiento1_idx (EtapadeEmpedimiento_idEtapadeEmpedimiento),
+            CONSTRAINT fk_Emprendimiento_EtapadeEmpedimiento1
+                FOREIGN KEY (EtapadeEmpedimiento_idEtapadeEmpedimiento)
+                REFERENCES EtapadeEmpedimiento (idEtapadeEmpedimiento)
+        ) 
+        """
+        cursor.execute(create_Emprendimiento)
+
+        # Tabla Seguimientos
+        create_Seguimientos = """
+        CREATE TABLE IF NOT EXISTS Seguimientos (
+            idSeguimientos INT NOT NULL AUTO_INCREMENT,
+            histproal VARCHAR(45) NOT NULL,
+            TipoSeguimiento VARCHAR(45) NOT NULL,
+            Descripcion VARCHAR(45) NOT NULL,
+            Seguimientoscol VARCHAR(45) NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            PRIMARY KEY (idSeguimientos)
+        ) 
+        """
+        cursor.execute(create_Seguimientos)
+
+        # Tabla Asisitencia
+        create_Asisitencia = """
+        CREATE TABLE IF NOT EXISTS Asisitencia (
+            idAsisitencia INT NOT NULL AUTO_INCREMENT,
+            FeedBack VARCHAR(45) NOT NULL,
+            Emprendimiento_idEmprendimiento INT NOT NULL,
+            FechaCreacion DATE NOT NULL,
+            FechaActualizacion DATE NOT NULL,
+            Seguimientos_idSeguimientos INT NOT NULL,
+            PRIMARY KEY (idAsisitencia),
+            INDEX fk_Asisitencia_Emprendimiento1_idx (Emprendimiento_idEmprendimiento),
+            INDEX fk_Asisitencia_Seguimientos1_idx (Seguimientos_idSeguimientos),
+            CONSTRAINT fk_Asisitencia_Emprendimiento1
+                FOREIGN KEY (Emprendimiento_idEmprendimiento)
+                REFERENCES Emprendimiento (idEmprendimiento),
+            CONSTRAINT fk_Asisitencia_Seguimientos1
+                FOREIGN KEY (Seguimientos_idSeguimientos)
+                REFERENCES Seguimientos (idSeguimientos)
+        ) 
+        """
+        cursor.execute(create_Asisitencia)
+
+        # Tabla SectoEconomico
+        create_SectoEconomico = """
+        CREATE TABLE IF NOT EXISTS SectoEconomico (
+            idSectoEconomico INT NOT NULL AUTO_INCREMENT,
+            Nombre VARCHAR(45) NOT NULL,
+            PRIMARY KEY (idSectoEconomico)
+        ) 
+        """
+        cursor.execute(create_SectoEconomico)
+
+        # Tabla Diagnosticos
+        create_Diagnosticos = """
+        CREATE TABLE IF NOT EXISTS Diagnosticos (
+            idDiagnosticos INT NOT NULL AUTO_INCREMENT,
+            FechaEmprendimiento DATE NOT NULL,                -- Corregido de FechaEmpredimiento
+            AreaEstrategia VARCHAR(45) NOT NULL,
+            Diferencial TINYINT NOT NULL,
+            Planeacion TINYINT NOT NULL,
+            MercadoObjetivo VARCHAR(45) NOT NULL,             -- Corregido de Mercadoobjetivo
+            Tendencias TINYINT NOT NULL,
+            Canales TINYINT NOT NULL,
+            DescripcionPromocion TEXT(150) NOT NULL,
+            SectoEconomico_idSectoEconomico INT NOT NULL,
+            Emprendimiento_idEmprendimiento INT NOT NULL,
+            Presentacion TINYINT NOT NULL,
+            PasosElaboracion TINYINT NOT NULL,
+            SituacionFinanciera TINYINT NOT NULL,             -- Corregido de SituacionFinaciera
+            FuenteFinanciero TEXT(150) NOT NULL,              -- Corregido de FuenteFinaciero
+            EstructuraOrganica TINYINT NOT NULL,              -- Corregido de EstrucuturaOrganica
+            ConocimientoLegal TINYINT NOT NULL,               -- Corregido de ConociminetoLegal
+            MetodologiaInnovacion TEXT(150) NOT NULL,         -- Corregido de MEtologiaInnovacion
+            HerramientaTecnologicas TEXT(150) NOT NULL,       -- Corregido de HerammientoTecnologicas
+            Marca TEXT(150) NOT NULL,
+            AplicacionMetodologia TINYINT NOT NULL,
+            ImpactoAmbiental TINYINT NOT NULL,
+            ImpactoSocial TINYINT NOT NULL,
+            Viabilidad TINYINT NOT NULL,
+            PRIMARY KEY (idDiagnosticos),
+            INDEX fk_Diagnosticos_SectoEconomico1_idx (SectoEconomico_idSectoEconomico),
+            INDEX fk_Diagnosticos_Emprendimiento1_idx (Emprendimiento_idEmprendimiento),
+            CONSTRAINT fk_Diagnosticos_SectoEconomico1
+                FOREIGN KEY (SectoEconomico_idSectoEconomico)
+                REFERENCES SectoEconomico (idSectoEconomico),
+            CONSTRAINT fk_Diagnosticos_Emprendimiento1
+                FOREIGN KEY (Emprendimiento_idEmprendimiento)
+                REFERENCES Emprendimiento (idEmprendimiento)
+        ) 
+        """
+        cursor.execute(create_Diagnosticos)
+
+        # Tabla Modalidad
+        create_Modalidad = """
+        CREATE TABLE IF NOT EXISTS Modalidad (
+            idModalidad INT NOT NULL,
+            Presencial TINYINT NOT NULL,
+            Distancia TINYINT NOT NULL,               
+            Enlace_virtual VARCHAR(45) NOT NULL,       
+            Lugar VARCHAR(45) NOT NULL,
+            PRIMARY KEY (idModalidad)
+        ) 
+        """
+        cursor.execute(create_Modalidad)
+
+        # Tabla Fecha_y_Horarios
+        create_Fecha_y_Horarios = """
+        CREATE TABLE IF NOT EXISTS Fecha_y_Horarios (
+            idFecha_y_Horarios INT NOT NULL,
+            Fecha_inicio DATETIME NOT NULL,
+            Hora_inicio DATETIME NOT NULL,
+            Fecha_fin DATETIME NOT NULL,
+            Hora_fin DATETIME NOT NULL,
+            PRIMARY KEY (idFecha_y_Horarios)
+        ) 
+        """
+        cursor.execute(create_Fecha_y_Horarios)
+
+        # Tabla Asesorias
+        create_Asesorias = """
+        CREATE TABLE IF NOT EXISTS Asesorias (
+            idAsesorias INT NOT NULL AUTO_INCREMENT,
+            Nombre_de_asesoria VARCHAR(45) NOT NULL,
+            Descripcion VARCHAR(45) NOT NULL,
+            Fecha_asesoria DATETIME NOT NULL,
+            Comentarios VARCHAR(45) NOT NULL,
+            Fecha_creacion DATETIME NOT NULL,
+            Fecha_actualizacion DATETIME NOT NULL,
+            confimacion VARCHAR(45) NOT NULL,
+            Usuarios_idUsuarios INT NOT NULL,
+            Modalidad_idModalidad INT NOT NULL,
+            Fecha_y_Horarios_idFecha_y_Horarios INT NOT NULL,
+            PRIMARY KEY (idAsesorias),
+            INDEX fk_Asesorias_Usuarios1_idx (Usuarios_idUsuarios),
+            INDEX fk_Asesorias_Modalidad1_idx (Modalidad_idModalidad),
+            INDEX fk_Asesorias_Fecha_y_Horarios1_idx (Fecha_y_Horarios_idFecha_y_Horarios),
+            CONSTRAINT fk_Asesorias_Usuarios1
+                FOREIGN KEY (Usuarios_idUsuarios)
+                REFERENCES Usuarios (idUsuarios),
+            CONSTRAINT fk_Asesorias_Modalidad1
+                FOREIGN KEY (Modalidad_idModalidad)
+                REFERENCES Modalidad (idModalidad),
+            CONSTRAINT fk_Asesorias_Fecha_y_Horarios1
+                FOREIGN KEY (Fecha_y_Horarios_idFecha_y_Horarios)
+                REFERENCES Fecha_y_Horarios (idFecha_y_Horarios)
+        ) 
+        """
+        cursor.execute(create_Asesorias)
+
+        # Tabla Tipo_evento
+        create_Tipo_evento = """
+        CREATE TABLE IF NOT EXISTS Tipo_evento (
+            idTipo_evento INT NOT NULL,
+            Academico VARCHAR(45) NOT NULL,
+            Cultura VARCHAR(45) NOT NULL,
+            Deportivo VARCHAR(45) NOT NULL,
+            Social VARCHAR(45) NOT NULL,
+            Conerencia VARCHAR(45) NOT NULL,
+            PRIMARY KEY (idTipo_evento)
+        ) 
+        """
+        cursor.execute(create_Tipo_evento)
+
+        # Tabla Eventos
+        create_Eventos = """
+        CREATE TABLE IF NOT EXISTS Eventos (
+            idEventos INT NOT NULL,
+            Nombre_evento VARCHAR(45) NOT NULL,
+            Descripcion_evento VARCHAR(45) NOT NULL,
+            Tipo_evento_idTipo_evento INT NOT NULL,
+            Modalidad_idModalidad INT NOT NULL,
+            Fecha_y_Horarios_idFecha_y_Horarios INT NOT NULL,
+            Estado VARCHAR(45) NOT NULL,
+            Capacidad_maxima INT NOT NULL,
+            Requiere_registro TINYINT NOT NULL,
+            Fecha_creacion DATETIME NOT NULL,          -- Corregido de Fecha_crecion
+            Fecha_actualizacion DATETIME NOT NULL,
+            PRIMARY KEY (idEventos),
+            INDEX fk_Eventos_Tipo_evento1_idx (Tipo_evento_idTipo_evento),
+            INDEX fk_Eventos_Modalidad1_idx (Modalidad_idModalidad),
+            INDEX fk_Eventos_Fecha_y_Horarios1_idx (Fecha_y_Horarios_idFecha_y_Horarios),
+            CONSTRAINT fk_Eventos_Tipo_evento1
+                FOREIGN KEY (Tipo_evento_idTipo_evento)
+                REFERENCES Tipo_evento (idTipo_evento),
+            CONSTRAINT fk_Eventos_Modalidad1
+                FOREIGN KEY (Modalidad_idModalidad)
+                REFERENCES Modalidad (idModalidad),
+            CONSTRAINT fk_Eventos_Fecha_y_Horarios1
+                FOREIGN KEY (Fecha_y_Horarios_idFecha_y_Horarios)
+                REFERENCES Fecha_y_Horarios (idFecha_y_Horarios)
+        ) 
+        """
+        cursor.execute(create_Eventos)
+
+        # Tabla Usuarios_has_Eventos
+        create_Usuarios_has_Eventos = """
+        CREATE TABLE IF NOT EXISTS Usuarios_has_Eventos (
+            Usuarios_idUsuarios INT NOT NULL,
+            Eventos_idEventos INT NOT NULL,
+            PRIMARY KEY (Usuarios_idUsuarios, Eventos_idEventos),
+            INDEX fk_Usuarios_has_Eventos_Eventos1_idx (Eventos_idEventos),
+            INDEX fk_Usuarios_has_Eventos_Usuarios1_idx (Usuarios_idUsuarios),
+            CONSTRAINT fk_Usuarios_has_Eventos_Usuarios1
+                FOREIGN KEY (Usuarios_idUsuarios)
+                REFERENCES Usuarios (idUsuarios),
+            CONSTRAINT fk_Usuarios_has_Eventos_Eventos1
+                FOREIGN KEY (Eventos_idEventos)
+                REFERENCES Eventos (idEventos)
+        ) 
+        """
+        cursor.execute(create_Usuarios_has_Eventos)
+
+        print("Tablas creadas exitosamente o ya existían.")
+
+except Error as e:
+    print("Error al conectarse a MySQL:", e)
+    
+finally:
+    if connection and connection.is_connected():
+        cursor.close()
+        connection.close()
+        print("Conexión cerrada con la base de datos.")
+```
+
+## Ejercicio: Implementación de Auth
+
+### Descripción
+
+En este ejercicio, extenderemos el sistema anterior para implementar un modelo de autenticación, y al mismo tiempo la base de datos recibirá un dato cifrado utilizando la librería bcryptjs, la autenticación se realizará en POSTMAN y la visualización deberá mantenerse.
+
+### Instrucciones
+
+1. Modifica el código para implementar un modelo de autenticación en POSTMAN.
+2. La base de datos recibirá la contraseña cifrada utilizando la librería bcryptjs.
+3. Para la autenticación se usaran tokens de la librería jsonwebtoken.
+
+### Código base para el ejercicio
+
+```JavaScript
+// app.js
+const express = require('express')
+const bodyParser = require('body-parser')
+const cors = require('cors')
+const { testConnection } = require('./config/db.config')
+
+// Importar rutas
+const userRoutes = require('./routes/user.routes')
+const moduleRoutes = require('./routes/module.routes')
+const municipalitiesRoutes = require('./routes/municipalities.routes')
+const academicProgramRoutes = require('./routes/academicProgram.routes')
+const roles = require('./routes/roles.routes')
+const tipoDoc = require('./routes/typeDoc.routes')
+const tipoUsuario = require('./routes/typeUsers.routes')
+const uniCenters = require('./routes/uniCenters.routes')
+const tipoPoblacion = require('./routes/typePop.routes')
+const EtapadeEmprendimiento = require('./routes/entrepStage.routes')
+const emprendimiento = require('./routes/entrepreneurship.routes')
+const tracing = require('./routes/tracing.routes')
+const assistance = require('./routes/assistance.routes')
+const econoSector = require('./routes/econoSector.routes')
+const diagnosis = require('./routes/diagnosis.routes')
+const mode = require('./routes/mode.routes')
+const advice = require('./routes/advice.routes')
+const event = require('./routes/event.routes')
+const typeEvent = require('./routes/typeEvent.routes')
+const dateTimes = require('./routes/dateTimes.routes')
+
+// Crear la aplicación
+
+const app = express()
+const PORT = process.env.PORT || 3005
+
+// Middleware
+app.use(cors())
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }))
+
+// Rutas
+app.use('/segmed/users', userRoutes)
+app.use('/segmed/module', moduleRoutes)
+app.use('/segmed/municipalities', municipalitiesRoutes)
+app.use('/segmed/academic-programs', academicProgramRoutes)
+app.use('/segmed/roles', roles)
+app.use('/segmed/type-doc', tipoDoc)
+app.use('/segmed/type-users', tipoUsuario)
+app.use('/segmed/uni-centers', uniCenters)
+app.use('/segmed/type-pop', tipoPoblacion)
+app.use('/segmed/entrep-stage', EtapadeEmprendimiento)
+app.use('/segmed/entrepreneurship', emprendimiento)
+app.use('/segmed/tracing', tracing)
+app.use('/segmed/assistance', assistance)
+app.use('/segmed/econo-sector', econoSector)
+app.use('/segmed/diagnosis', diagnosis)
+app.use('/segmed/mode', mode)
+app.use('/segmed/advice', advice)
+app.use('/segmed/event', event)
+app.use('/segmed/type-event', typeEvent)
+app.use('/segmed/date-times', dateTimes)
+
+// Ruta de prueba   
+app.get('/', (req, res) => {
+    res.json({ 
+        message: 'Bienvenido al API de SGEMD',
+        endpoints: {
+            users: '/segmed/users',
+            modules: '/segmed/modules',
+            municipalities: '/segmed/municipalities',
+            academicPrograms: '/segmed/academic-programs',
+            roles: '/segmed/roles',
+            tipoDoc: '/segmed/tipo-doc',
+            tipoUsuario: '/segmed/tipo-usuarios',
+            uniCenters: '/segmed/uni-centers',
+            tipoPoblacion: '/segmed/tipo-poblacion',
+            etapadeEmpedimiento: '/segmed/etapade-empedimiento',
+            emprendimiento: '/segmed/emprendimiento',
+            tracing: '/segmed/tracing',
+            assistance: '/segmed/assistance',
+            econoSector: '/segmed/econo-sector',
+            diagnosis: '/segmed/diagnosis',
+            mode: '/segmed/mode',
+            advice: '/segmed/advice',
+            event: '/segmed/event',
+            typeEvent: '/segmed/typeEvent',
+            dateTimes: '/segmed/dateTimes'
+        }
+    })
+})
+
+// Manejo de errores
+app.use((err, req, res, next) => {
+    console.error(err.stack)
+    res.status(500).json({ success: false, error: 'Error interno del servidor' });
+})
+
+// Ruta no encontrada
+app.use('*', (req, res) => {
+    res.status(404).json({ success: false, error: 'Ruta no encontrada' });
+})
+
+// Inicializar la aplicación
+async function startServer() {
+    const dbConnected = await testConnection();
+    if (!dbConnected) {
+        console.error('No se pudo conectar a la base de datos. Verifica la configuración.');
+        process.exit(1);
+    }
+
+    app.listen(PORT, () => {
+        console.log(`Servidor ejecutándose en http://localhost:${PORT}`);
+        console.log(`API disponible en http://localhost:${PORT}/segmed/`);
+    })
+}
+
+startServer()
+
+```
+
+```JavaScript
+// users.service.js
+const { pool } = require('../config/db.config');
+
+// Obtener todos los usuarios
+exports.findAll = async () => {
+    const [rows] = await pool.execute(`
+        SELECT u.idUsuarios, u.Nombre, u.CorreoInstitucional, u.CorreoPersonal, 
+               u.Celular, u.Telefono, u.Estado, u.Semestre, u.Modalidad,
+               tu.TipodeUsuario, pa.Nombre as ProgramaAcademico
+        FROM Usuarios u
+        INNER JOIN TipoUsuarios tu ON u.TipoUsuarios_idTipoUsuarios = tu.idTipoUsuarios
+        LEFT JOIN ProgramaAcademico pa ON u.ProgramaAcademico_idProgramaAcademico = pa.idProgramaAcademico
+        WHERE u.Estado = 1
+    `);
+    return rows;
+}
+// Obtener todos los estudiantes
+exports.findAllStudents = async () => {
+    const [rows] = await pool.execute(`
+        SELECT u.idUsuarios, u.Nombre, u.CorreoInstitucional, u.CorreoPersonal, 
+               u.Celular, u.Telefono, u.Estado, u.Semestre, u.Modalidad,
+               tu.TipodeUsuario, pa.Nombre as ProgramaAcademico
+        FROM Usuarios u
+        INNER JOIN TipoUsuarios tu ON u.TipoUsuarios_idTipoUsuarios = tu.idTipoUsuarios
+        LEFT JOIN ProgramaAcademico pa ON u.ProgramaAcademico_idProgramaAcademico = pa.idProgramaAcademico
+        WHERE tu.TipodeUsuario = 'Estudiante' AND u.Estado = 1
+        `)
+        return rows
+}
+
+exports.findAllTeachers = async () => {
+    const [rows] = await pool.execute(`
+        SELECT u.idUsuarios, u.Nombre, u.CorreoInstitucional, u.CorreoPersonal, 
+               u.Celular, u.Telefono, u.Estado, u.Semestre, u.Modalidad,
+               tu.TipodeUsuario, pa.Nombre as ProgramaAcademico
+        FROM Usuarios u
+        INNER JOIN TipoUsuarios tu ON u.TipoUsuarios_idTipoUsuarios = tu.idTipoUsuarios
+        LEFT JOIN ProgramaAcademico pa ON u.ProgramaAcademico_idProgramaAcademico = pa.idProgramaAcademico
+        WHERE tu.TipodeUsuario = 'Docente' AND u.Estado = 1
+        `)
+        return rows
+}
+
+exports.findAllAdmin = async () => {
+    const [rows] = await pool.execute(`
+        SELECT u.idUsuarios, u.Nombre, u.CorreoInstitucional, u.CorreoPersonal, 
+               u.Celular, u.Telefono, u.Estado, u.Semestre, u.Modalidad,
+               tu.TipodeUsuario, pa.Nombre as ProgramaAcademico
+        FROM Usuarios u
+        INNER JOIN TipoUsuarios tu ON u.TipoUsuarios_idTipoUsuarios = tu.idTipoUsuarios
+        LEFT JOIN ProgramaAcademico pa ON u.ProgramaAcademico_idProgramaAcademico = pa.idProgramaAcademico
+        WHERE tu.TipodeUsuario = 'Administrativo' AND u.Estado = 1
+        `)
+        return rows
+}
+
+
+// Obtener usuario por ID
+exports.findById = async (id) => {
+    const [rows] = await pool.execute(`
+        SELECT u.idUsuarios, u.Nombre, u.CorreoInstitucional, u.CorreoPersonal,
+               u.Celular, u.Telefono, u.Direcccion, u.Genero, u.EstadoCivil,
+               u.FechaNacimiento, u.Semestre, u.Modalidad, u.Estado,
+               tu.TipodeUsuario, pa.Nombre as ProgramaAcademico,
+               cu.Nombre as CentroUniversitario, m.Nombre as Municipio,
+               td.TipoDocumento, r.Nombre as Rol, tp.Nombre as TipoPoblacion
+        FROM Usuarios u
+        INNER JOIN TipoUsuarios tu ON u.TipoUsuarios_idTipoUsuarios = tu.idTipoUsuarios
+        LEFT JOIN ProgramaAcademico pa ON u.ProgramaAcademico_idProgramaAcademico = pa.idProgramaAcademico
+        LEFT JOIN CentroUniversitarios cu ON u.CentroUniversitarios_idCentroUniversitarios = cu.idCentroUniversitarios
+        LEFT JOIN Municipios m ON u.Municipios_idMunicipio = m.idMunicipio
+        LEFT JOIN TipoDocumentos td ON u.TipoDocumentos_idTipoDocumento = td.idTipoDocumento
+        LEFT JOIN Roles r ON u.Roles_idRoles1 = r.idRoles
+        LEFT JOIN TipoPoblacion tp ON u.TipoPoblacion_idTipoPoblacion = tp.idTipoPoblacion
+        WHERE u.idUsuarios = ? AND u.Estado = 1
+    `, [id])
+    
+    if (rows.length === 0) {
+        throw new Error('Usuario no encontrado')
+    }
+    
+    return rows[0];
+};
+
+// Verificar si el correo ya existe
+exports.emailExists = async (email) => {
+    const [rows] = await pool.execute(
+        'SELECT idUsuarios FROM Usuarios WHERE CorreoInstitucional = ? AND Estado = 1',
+        [email]
+    );
+    return rows.length > 0;
+};
+
+// Crear nuevo estudiante
+exports.create = async (newUser) => {
+    // Verificar si el correo ya existe
+    const emailExists = await exports.emailExists(newUser.CorreoInstitucional)
+    if (emailExists) {
+        throw new Error('El correo institucional ya está registrado')
+    }
+
+    // Obtener IDs de las tablas relacionadas
+    const [tipoUsuario] = await pool.execute(
+        "SELECT idTipoUsuarios FROM TipoUsuarios WHERE TipodeUsuario = 'Estudiante' LIMIT 1"
+    )
+    const [rol] = await pool.execute(
+        "SELECT idRoles FROM Roles WHERE Nombre = 'Estudiante' LIMIT 1"
+    )
+    if (tipoUsuario.length === 0 || rol.length === 0) {
+        throw new Error('Configuración de base de datos incompleta');
+    }
+
+    const fechaActual = new Date()
+    const [result] = await pool.execute(
+        `INSERT INTO Usuarios (
+            Nombre, CorreoInstitucional, CorreoPersonal, Celular, Telefono,
+            Direcccion, Genero, EstadoCivil, FechaNacimiento, 
+            Modulos_idModulos, Municipios_idMunicipio, ProgramaAcademico_idProgramaAcademico, 
+            Roles_idRoles1, TipoDocumentos_idTipoDocumento, TipoUsuarios_idTipoUsuarios,
+            ProgramaAcademico_idProgramaAcademico1, CentroUniversitarios_idCentroUniversitarios,
+            Estado, Semestre, Modalidad, TipoPoblacion_idTipoPoblacion,
+            FechaCreacion, FechaActualizacion
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        `,
+        [
+            newUser.Nombre,
+            newUser.CorreoInstitucional,
+            newUser.CorreoPersonal || '',
+            newUser.Celular || '',
+            newUser.Telefono || '',
+            newUser.Direcccion || '',
+            newUser.Genero || '',
+            newUser.EstadoCivil || '',
+            newUser.FechaNacimiento || fechaActual,
+            newUser.Modulos_idModulos || 1,
+            newUser.Municipios_idMunicipio || 1,
+            newUser.ProgramaAcademico_idProgramaAcademico || 1,
+            rol[0].idRoles,
+            newUser.TipoDocumentos_idTipoDocumento || 1,
+            tipoUsuario[0].idTipoUsuarios,
+            newUser.ProgramaAcademico_idProgramaAcademico1 || 1,
+            newUser.CentroUniversitarios_idCentroUniversitarios || 1,
+            1,
+            newUser.Semestre || '1',
+            newUser.Modalidad || 'Presencial',
+            newUser.TipoPoblacion_idTipoPoblacion || 1,
+            fechaActual,
+            fechaActual
+        ]
+    );
+    return { id: result.insertId, ...newUser };
+};
+
+// Actualizar usuario
+exports.update = async (id, updatedUsers) => {
+    await exports.findById(id)
+
+    const [result] = await pool.execute(
+        `UPDATE Usuarios SET 
+            Nombre = ?, CorreoPersonal = ?, Celular = ?, Telefono = ?,
+            Direcccion = ?, Genero = ?, EstadoCivil = ?, FechaNacimiento = ?,
+            Semestre = ?, Modalidad = ?, FechaActualizacion = ?,
+            Municipios_idMunicipio = ?, ProgramaAcademico_idProgramaAcademico = ?,
+            TipoDocumentos_idTipoDocumento = ?, CentroUniversitarios_idCentroUniversitarios = ?,
+            TipoPoblacion_idTipoPoblacion = ?
+        WHERE idUsuarios = ? AND Estado = 1`,
+        [
+            updatedUsers.Nombre,
+            updatedUsers.CorreoPersonal,
+            updatedUsers.Celular,
+            updatedUsers.Telefono,
+            updatedUsers.Direcccion,
+            updatedUsers.Genero,
+            updatedUsers.EstadoCivil,
+            updatedUsers.FechaNacimiento,
+            updatedUsers.Semestre,
+            updatedUsers.Modalidad,
+            new Date(),
+            updatedUsers.Municipios_idMunicipio,
+            updatedUsers.ProgramaAcademico_idProgramaAcademico,
+            updatedUsers.TipoDocumentos_idTipoDocumento,
+            updatedUsers.CentroUniversitarios_idCentroUniversitarios,
+            updatedUsers.TipoPoblacion_idTipoPoblacion,
+            id
+        ]
+    )
+    return result.affectedRows > 0;
+}
+
+// Eliminar usuario (soft delete)
+exports.remove = async (id) => {
+    const [result] = await pool.execute(
+        'UPDATE Usuarios SET Estado = 0, FechaActualizacion = ? WHERE idUsuarios = ?',
+        [new Date(), id]
+    )
+    return result.affectedRows > 0;
+}
+
+// Login de usuario
+exports.login = async (email) => {
+    const [rows] = await pool.execute(`
+        SELECT u.idUsuarios, u.Nombre, u.CorreoInstitucional, u.Estado 
+        FROM Usuarios u 
+        INNER JOIN TipoUsuarios tu ON u.TipoUsuarios_idTipoUsuarios = tu.idTipoUsuarios 
+        WHERE u.CorreoInstitucional = ? 
+        AND u.Estado = 1 
+    `, [email])
+    if (rows.length === 0) {
+        throw new Error('Usuario no encontrado')
+    }
+    return rows[0];
+}
+
+// Obtener emprendimientos del usuario
+exports.getEntrepreneurships = async (userId) => {
+    const [modulo] = await pool.execute(
+        'SELECT Modulos_idModulos FROM Usuarios WHERE idUsuarios = ?', [userId]
+    )
+    if (modulo.length === 0) return []
+    const moduloId = modulo[0].Modulos_idModulos
+
+    const [rows] = await pool.execute(`
+        SELECT e.idEmprendimiento, e.Nombre, e.Descripcion, e.TipoEmprendimiento,
+               e.SectorProductivo, e.RedesSociales, e.Acompanamiento, e.FechaCreacion, e.FechaActualizacion,
+               ee.TipoEtapa
+        FROM Emprendimiento e
+        INNER JOIN EtapadeEmpedimiento ee ON e.EtapadeEmpedimiento_idEtapadeEmpedimiento = ee.idEtapadeEmpedimiento
+        WHERE e.Modulos_idModulos = ? 
+    `, [moduloId])
+    return rows
+};
+
+// Obtener diagnósticos de un emprendimiento
+exports.getDiagnostics = async (entrepreneurshipId) => {
+    const [rows] = await pool.execute(`
+        SELECT d.idDiagnosticos, d.FechaEmprendimiento, d.AreaEstrategia, d.Diferencial,
+               d.Planeacion, d.MercadoObjetivo, d.Tendencias, d.Canales, d.DescripcionPromocion,
+               d.Presentacion, d.PasosElaboracion, d.SituacionFinanciera, d.FuenteFinanciero,
+               d.EstructuraOrganica, d.ConocimientoLegal, d.MetodologiaInnovacion,
+               d.HerramientaTecnologicas, d.Marca, d.AplicacionMetodologia,
+               d.ImpactoAmbiental, d.ImpactoSocial, d.Viabilidad,
+               se.Nombre as SectorEconomico
+        FROM Diagnosticos d
+        INNER JOIN SectoEconomico se ON d.SectoEconomico_idSectoEconomico = se.idSectoEconomico
+        WHERE d.Emprendimiento_idEmprendimiento = ?
+    `, [entrepreneurshipId]);
+    return rows;
+};
+
+// Obtener consultorías de un usuario
+exports.getConsultancies = async (userId) => {
+    const [rows] = await pool.execute(`
+        SELECT a.idAsesorias, a.Nombre_de_asesoria, a.Descripcion, a.Fecha_asesoria,
+               a.Comentarios, a.confimacion, a.Fecha_creacion, a.Fecha_actualizacion,
+               m.Presencial, m.Distancia, m.Enlace_virtual, m.Lugar,
+               fyh.Fecha_inicio, fyh.Hora_inicio, fyh.Fecha_fin, fyh.Hora_fin
+        FROM Asesorias a
+        INNER JOIN Modalidad m ON a.Modalidad_idModalidad = m.idModalidad
+        INNER JOIN Fecha_y_Horarios fyh ON a.Fecha_y_Horarios_idFecha_y_Horarios = fyh.idFecha_y_Horarios
+        WHERE a.Usuarios_idUsuarios = ?
+    `, [userId]);
+    return rows;
+};
+```
+
+```JavaScript
+// user.controller.js
+
+const usersService = require('../services/users.service')
+
+// Obtener todos los estudiantes
+exports.getAllUsers = async (req, res) => {
+    try {
+        const users = await usersService.findAll()
+        res.json({ success: true, data: users })
+    } catch (error) {
+        console.error('Error en getAllUsers:', error)
+        res.status(500).json({ success: false, error: error.message })
+    }
+}
+
+exports.getAllStudents = async (req, res) => {
+    try {
+        const students = await usersService.findAllStudents()
+        res.json({ success: true, data: students })
+    } catch (error) {
+        console.error('Error en getAllStudents:', error)
+        res.status(500).json({ success: false, error: error.message })
+    }
+}
+
+exports.getAllTeachers = async (req, res) => {
+    try {
+        const teachers = await usersService.findAllTeachers()
+        res.json({ success: true, data: teachers })
+    } catch (error) {
+        console.error('Error en getAllTeachers:', error)
+        res.status(500).json({ success: false, error: error.message })
+    }
+}
+
+exports.getAllAdmins = async (req, res) => {
+    try {
+        const admins = await usersService.findAllAdmin()
+        res.json({ success: true, data: admins })
+    } catch (error) {
+        console.error('Error en getAllAdmins:', error)
+        res.status(500).json({ success: false, error: error.message })
+    }
+}
+
+// Obtener usuario por ID
+exports.getUsersById = async (req, res) => {
+    try {
+        const user = await usersService.findById(req.params.id)
+        res.json({ success: true, data: user })
+    } catch (error) {
+        console.error('Error en getStudentById:', error)
+        res.status(404).json({ success: false, error: error.message })
+    }
+}
+
+// Crear nuevo usuario
+exports.createUser = async (req, res) => {
+    try {
+        const newUser = await usersService.create(req.body)
+        res.status(201).json({ success: true, data: newUser })
+    } catch (error) {
+        console.error('Error en createUsers:', error)
+        res.status(400).json({ success: false, error: error.message })
+    }
+}
+
+// Actualizar estudiante
+exports.updateUser = async (req, res) => {
+    try {
+        const updated = await usersService.update(req.params.id, req.body);
+        if (updated) {
+            res.json({ success: true, message: 'Usuario actualizado correctamente' })
+        } else {
+            res.status(404).json({ success: false, error: 'Usuario no encontrado' })
+        }
+    } catch (error) {
+        console.error('Error en updateUsuario:', error)
+        res.status(400).json({ success: false, error: error.message })
+    }
+}
+
+// Eliminar usuario
+exports.deleteUser = async (req, res) => {
+    try {
+        const deleted = await usersService.remove(req.params.id)
+        if (deleted) {
+            res.json({ success: true, message: 'Usuario eliminado correctamente' })
+        } else {
+            res.status(404).json({ success: false, error: 'Usuario no encontrado' })
+        }
+    } catch (error) {
+        console.error('Error en deleteUsuario:', error)
+        res.status(500).json({ success: false, error: error.message })
+    }
+}
+
+// Login de usuario
+exports.loginUser = async (req, res) => {
+    try {
+        const { email } = req.body;
+        if (!email) {
+            return res.status(400).json({ success: false, error: 'Email es requerido' })
+        }
+        
+        const user = await usersService.login(email)
+        res.json({ success: true, data: user })
+    } catch (error) {
+        console.error('Error en loginUser:', error)
+        res.status(401).json({ success: false, error: error.message })
+    }
+}
+
+// Obtener emprendimientos de estudiante
+exports.getStudentEntrepreneurships = async (req, res) => {
+    try {
+        const entrepreneurships = await usersService.getEntrepreneurships(req.params.id)
+        res.json({ success: true, data: entrepreneurships })
+    } catch (error) {
+        console.error('Error en getStudentEntrepreneurships:', error)
+        res.status(500).json({ success: false, error: error.message })
+    }
+}
+
+```
+
+```JavaScript
+// user.routes.js
+const express = require('express')
+const router = express.Router()
+const userController = require('../controllers/user.controller')
+
+// Rutas para estudiantes
+router.get('/', userController.getAllUsers)
+router.get('/students', userController.getAllStudents)
+router.get('/teachers', userController.getAllTeachers)
+router.get('/admins', userController.getAllAdmins)
+router.get('/:id', userController.getUsersById)
+router.post('/', userController.createUser)
+router.put('/:id', userController.updateUser)
+router.delete('/:id', userController.deleteUser)
+router.post('/login', userController.loginUser)
+router.get('/:id/entrepreneurships', userController.getStudentEntrepreneurships)
+
+module.exports = router
+```
