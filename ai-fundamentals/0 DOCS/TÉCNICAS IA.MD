@@ -68,9 +68,15 @@ Algoritmo "perezoso" (no aprende, memoriza) que clasifica un nuevo punto basánd
 - Lento con grandes datos
 - Sensible a la escala
 
+<<<<<<< HEAD
 ### 1. Limpiar los datos
 ### 2. Estandarizar los datos
 ### 3. Identificar objetivo
+=======
+### 1.
+### 2. 
+### 3. Preparar datos
+>>>>>>> 9c6fd4b78bbf18a2adec63e67a1e2aa91430177a
 
 ## Necesita:
 
@@ -124,6 +130,7 @@ Si el rendimiento no es el esperado, puede probar lo siguiente:
 **Reducir la dimensionalidad**. Si tienes muchas características, usa técnicas como el Análisis de Componentes Principales (PCA) para combatir la "maldición de la dimensionalidad".
 **Para grandes conjuntos de datos:** Considera usar estructuras de datos optimizadas como KD-Trees o Ball-Trees para acelerar la búsqueda de los vecinos más cercanos.
     
+<<<<<<< HEAD
 ## METRICAS (Ordenadas por importancia)
 
 1. La matriz de confusión (se basa el resto)
@@ -135,3 +142,5 @@ Si el rendimiento no es el esperado, puede probar lo siguiente:
 4. Exhaustividad (Recall)
 
 5. Puntuación F1 (F1-Score)
+=======
+>>>>>>> 9c6fd4b78bbf18a2adec63e67a1e2aa91430177a
