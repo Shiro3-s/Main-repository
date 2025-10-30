@@ -1,0 +1,66 @@
+POWERSHELL Eventual_consistency.py
+
+	POST
+		$body = '{"key":"user1", "value":"Bob"}'; Invoke-WebRequest -Uri http://localhost:5003/put -Method POST -Body $body -ContentType 'application/json'
+
+
+	GET
+		Invoke-WebRequest -Uri http://localhost:5003/get/username -Method GET
+
+		Invoke-WebRequest -Uri http://localhost:5003/get/user1 -Method GET;Invoke-WebRequest -Uri http://localhost:5001/get/user1 -Method GET;Invoke-WebRequest -Uri http://localhost:5003/get/user1 -Method GET   
+
+
+POWESHELL Quorum_consistency.py
+	python quorum_consistency.py --id 1 --port 5001 --peers 5002,5003 --read-quorum 2 --write-quorum 2  	Líder 1
+	python quorum_consistency.py --id 2 --port 5002 --peers 5001,5003 --read-quorum 2 --write-quorum 2	Líder 2
+	python quorum_consistency.py --id 3 --port 5003 --peers 5001,5002 --read-quorum 2 --write-quorum 2	Líder 3
+
+	PRUEBA READ_REPAIR
+		$body = '{"key":"balance", "value":100}'; Invoke-WebRequest -Uri http://localhost:5003/put -Method POST -Body $body -ContentType 'application/json' | Select-Object -ExpandProperty Content
+
+	LECTURA INCONSISTENTE
+		$body = '{"key":"balance", "value":200}'; Invoke-WebRequest -Uri http://localhost:5001/put -Method POST -Body $body -ContentType 'application/json' | Select-Object -ExpandProperty Content
+
+		$body = '{"key":"balance", "value":200}'; Invoke-WebRequest -Uri http://localhost:5002/put -Method POST -Body $body -ContentType 'application/json' | Select-Object -ExpandProperty Content
+
+	PRUEBA HINTED_HANDOFF
+		Se detiene un Nodo
+		Actualizamos valores en los otros 2
+
+		$body = '{"key":"status", "value":"maintenance_complete"}'; Invoke-WebRequest -Uri http://localhost:5001/put -Method POST -Body $body -ContentType 'application/json' | Select-Object -ExpandProperty Content
+
+	PRUEBA CONSISTENCIA NIVELES DE CONSISTENCIA
+		ONE
+			Solo un nodo responde
+			Invoke-WebRequest -Uri http://localhost:5001/get/status?consistency=ONE -Method GET | Select-Object -ExpandProperty Content
+		ALL
+			# Intenta escribir usando ALL. Esto solo funcionará si los 3 nodos están activos.
+			$body = '{"key":"config", "value":"final", "consistency":"ALL"}'; Invoke-WebRequest -Uri http://localhost:5002/put -Method POST -Body $body -ContentType 'application/json' | Select-Object -ExpandProperty Content
+
+POWERSHELL crdt_counter.py
+	1	python crdt_counter.py --id 0 --port 5001 --num-nodes 3 --peers 5002,5003	Nodo 0
+	2	python crdt_counter.py --id 1 --port 5002 --num-nodes 3 --peers 5001,5003	Nodo 1
+	3	python crdt_counter.py --id 2 --port 5003 --num-nodes 3 --peers 5001,5002	Nodo 2
+	
+	$body5 = '{"amount": 5}'; iwr -Uri http://localhost:5001/increment -Method POST -Body $body5 -ContentType 'application/json' | Select-Object -ExpandProperty Content
+	$body3 = '{"amount": 3}'; iwr -Uri http://localhost:5002/increment -Method POST -Body $body3 -ContentType 'application/json' | Select-Object -ExpandProperty Content
+	$body10 = '{"amount": 10}'; iwr -Uri http://localhost:5003/increment -Method POST -Body $body10 -ContentType 'application/json' | Select-Object -ExpandProperty Content
+	
+	Lectura
+		# Valor en Nodo 0
+		iwr http://localhost:5001/value -Method GET | Select-Object -ExpandProperty Content
+
+		# Valor en Nodo 1
+		iwr http://localhost:5002/value -Method GET | Select-Object -ExpandProperty Content
+
+		# Valor en Nodo 2
+		iwr http://localhost:5003/value -Method GET | Select-Object -ExpandProperty Content
+	Convergencia
+		# Valor convergido en Nodo 0
+		iwr http://localhost:5001/value -Method GET | Select-Object -ExpandProperty Content
+
+		# Valor convergido en Nodo 1
+		iwr http://localhost:5002/value -Method GET | Select-Object -ExpandProperty Content
+
+		# Valor convergido en Nodo 2
+		iwr http://localhost:5003/value -Method GET | Select-Object -ExpandProperty Content

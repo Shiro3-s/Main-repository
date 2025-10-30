@@ -1,0 +1,1267 @@
+NRC;Periodo;Asignatura;Momento;Salon;Tipo;Id_Docente;Responsable;Sede_Docente;Ubicaci¢n;Tipo_Curso;Plantilla;Total_Alistamiento;Total_Ejecucion;Total_Curso;Valoracion;Email_Enviado
+43-300;202443;Metodolog°a de la Investigac;3;B3-304;1;478259;AEMD;IBA;IBA;PD;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+43-303;202443;Formulaci¢n de Proyectos;1;B3-304;1;662326;ESP;IBA;IBA;PD;INNOVAME;30;36,3;46,3;Desempe§o insatisfactorio;SI
+43-302;202443;Evaluaci¢n de Proyectos;2;B2-305;1;662326;ESP;IBA;IBA;PD;INNOVAME;20;30;50;Desempe§o insatisfactorio;-
+43-304;202443;Gerencia del Conoc y la Tecnol;2;VIRTU;2;846904;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+43-56330;202443;Electiva;2;B3-304;1;738598;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+43-56333;202443;Ejecuci¢n de Proyectos;2;B3-305;1;826026;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+43-56422;202443;Proyecto de Grado;3;VIRTU;2;738594;ESP;IBA;IBA;PD;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+43-56476;202443;Direccionamiento EstratÇgico;1;B3-304;1;738594;ESP;IBA;IBA;PD;INNOVAME;50;42,6;92,6;Desempe§o Excelente;-
+43-56477;202443;Competencias Gerenciales B†sic;2;VIRTU;2;805745;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+43-56478;202443;Ejecuci¢n de Proyectos;1;B3-305;1;662326;ESP;IBA;IBA;PD;INNOVAME;30;35,4;45,4;Desempe§o insatisfactorio;SI
+43-62543;202443;Evaluaci¢n de Proyectos;2;B3-305;1;662326;ESP;IBA;IBA;PD;INNOVAME;20;30;30;Desempe§o insatisfactorio;-
+30-304;202430;Com Escrita y Proce Lect I;3;SALA A;1;535293;CSOD;IBA;IBA;PP;INNOVAME;35;50;85;Desempe§o Bueno;SI
+30-335;202430;Planeaci¢n y Organizaci¢n;3;B3-303;1;486830;AETH;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-336;202430;Macroeconom°a;3;B2-303;1;873433;ADFU;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-337;202430;Contabilidad y Costos Aplicado;3;B2-302;1;486830;AETH;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-338;202430;TÇcnicas de Cocina;3;B3-303;1;984452;AETH;IBA;IBA;PP;CRIBA;36,92307692;50;86,92307692;Desempe§o Bueno;SI
+30-339;202430;TÇcnicas de Servicio de Alimen;3;B3-303;1;984452;AETH;IBA;IBA;PP;CRIBA;36,92307692;50;86,92307692;Desempe§o Bueno;SI
+30-323;202430;Investigaci¢n Formativa;3;B3-302;1;532764;ADFU;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-322;202430;Electiva Cpc;3;B3-303;1;838355;CSOD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-323;202430;Presupuestos;3;B3-303;1;845403;ADFU;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-324;202430;Electiva Cmd;3;B3-306;1;946743;AETH;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-325;202430;Turismo Sostenible y Ecoturism;3;B3-305;1;946743;AETH;IBA;IBA;PP;CRIBA;36,35384635;50;86,35384635;Desempe§o Bueno;SI
+30-326;202430;Sistemas de Inform Tur°stica H;3;B2-305;1;984452;AETH;IBA;IBA;PP;CRIBA;36,35384635;50;86,35384635;Desempe§o Bueno;SI
+30-327;202430;Recepci¢n y Habitaciones;3;B3-306;1;984452;AETH;IBA;IBA;PP;CRIBA;36,92307692;50;86,92307692;Desempe§o Bueno;SI
+30-329;202430;Com Escrita y Proce Lect I;3;303;1;764485;CSOD;IBA;IBA;PP;INNOVAME;40;50;90;Desempe§o Bueno;SI
+30-330;202430;Historia Socio Pol°tica de Col;3;B3-305;1;947897;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-333;202430;Ciencia Pol°tica;3;B2-304;1;948372;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-332;202430;Proyecto de Vida;3;204;1;335365;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-333;202430;Cmd Desarrollo y Bienestar Soc;3;B2-304;1;363976;TRSO;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-334;202430;An†lisis Hist¢rico del Trabajo;3;B3-305;1;985954;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-348;202430;Fundamentos de Trabajo Social;3;B3-304;1;228665;TRSO;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-349;202430;Com Escrita y Proce Lect II;3;B3-304;1;803692;CSOD;IBA;IBA;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;-
+30-350;202430;L¢gica Argumentativa;3;B3-307;1;539534;LPID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-357;202430;Fundamentos de Psicolog°a;3;B3-304;1;445883;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-359;202430;Epistemolog°a de Ciencias Soci;3;B3-304;1;947897;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-362;202430;Fundamentos de Sociolog°a;3;B3-307;1;947897;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-363;202430;Introducci¢n a la Investigaci¢;3;B3-305;1;439677;TRSO;IBA;IBA;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-364;202430;Emprendimiento;3;B3-304;1;845364;AEMD;IBA;IBA;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-366;202430;Trabajo Social de Caso y Famil;3;B3-303;1;363976;TRSO;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-3748;202430;Electiva Cpc;3;SALA B;1;936393;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-375;202430;Antropolog°a Social y Cultura;3;B2-303;1;947897;TRSOP;IBA;IBA;PP;CRIBA;38,46353846;50;88,46353846;Desempe§o Bueno;SI
+30-3750;202430;Investigaci¢n en Contexto Audi;3;305;1;802606;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-3753;202430;êtica Profesional;3;202;1;803692;CSOD;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-3752;202430;Taller de Guion Documental;3;204;1;764485;CSOD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;-
+30-3755;202430;Taller de Investigac Aplicada;3;202;1;932047;TRAU;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-3757;202430;Taller de Guion Argumental;3;305;1;764485;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-376;202430;Desarrollo Social Contempor†ne;3;B2-304;1;985935;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;SI
+30-3763;202430;Taller de Producci¢n para Real;3;SALA A;1;802606;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-3763;202430;Realizaci¢n de Documentos;3;303;1;802606;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-3765;202430;Pr†ctica Profesional;3;305;1;845393;CSOD;IBA;IBA;PP;CRIBA;36,92307692;50;86,92307692;Desempe§o Bueno;SI
+30-202;202430;Trabajo Social de Grupo;3;B3-303;1;363976;TRSO;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-206;202430;Investigaci¢n en Ciencias Soci;3;B3-304;1;947897;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-233;202430;Pensamiento Econ¢mico;3;B2-303;1;537748;AEMD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-234;202430;Estad°stica para las Ciencias;3;B2-302;1;732370;AEMD;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-235;202430;Practica Responsabilidad Socia;3;B2-302;1;985935;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;SI
+30-236;202430;Trabajo Social de Comunidad;3;B3-304;1;228665;TRSO;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-237;202430;Investigaci¢n Cuantitativa;3;SALA B;1;483499;PSID;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-238;202430;Teor°as de la Comunidad;3;B2-304;1;439677;TRSO;IBA;IBA;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-239;202430;Pol°tica P£blica;3;B2-305;1;439677;TRSO;IBA;IBA;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-220;202430;Administraci¢n y Planificaci¢n;3;B2-304;1;782232;AEMD;IBA;IBA;PP;CRIBA;38,46353846;50;88,46353846;Desempe§o Bueno;SI
+30-223;202430;Pedagog°a Social y Educaci¢n;3;B3-302;1;539534;LPID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-222;202430;Seminario de Profundizaci¢n;3;B3-303;1;363976;TRSO;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-223;202430;Investigaci¢n Cualitativa;3;B3-302;1;695633;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-224;202430;Legislaci¢n Social;3;B2-305;1;985954;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-233;202430;êtica Profesional;3;B3-307;1;985954;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-232;202430;Proyecto Social;3;B3-307;1;985954;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-234;202430;Pr†ctica Profesional 3;3;B3-305;1;439677;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-235;202430;Cmd Derechos Humanos;3;B3-303;1;845393;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-236;202430;Seminario de Acci¢n del Trabaj;3;B3-302;1;228665;TRSO;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-237;202430;Sistematizaci¢n en Trabajo Soc;3;B3-302;1;985954;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-238;202430;Pr†ctica Profesional 2;3;B3-303;1;363976;TRSO;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-239;202430;L¢gica Matem†tica;3;B2-303;1;986086;ISUM;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-242;202430;Proyecto de Vida;3;B2-303;1;370873;AEMD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-245;202430;Com Escrita y Proce Lect I;3;B3-303;1;53930;CSOD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-304;202430;Geograf°a Tur°stica Nacional;3;B3-303;1;946743;AETH;IBA;IBA;PP;CRIBA;37,69230769;50;87,69230769;Desempe§o Bueno;SI
+30-402;202430;Administraci¢n de la Hospitali;3;B3-303;1;984452;AETH;IBA;IBA;PP;CRIBA;36,35384635;50;86,35384635;Desempe§o Bueno;SI
+30-403;202430;Desarrollo Social Contempor†ne;3;B2-303;1;985935;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;SI
+30-470;202430;Herramientas de Gesti¢n Comuni;3;B3-305;1;228665;TRSO;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-5897;202430;Com Escrita y Proce Lect I;3;SALA A;1;535293;CSOD;IBA;IBA;PP;INNOVAME;35;50;85;Desempe§o Bueno;SI
+30-5903;202430;Com Escrita y Proce Lect I;3;204;1;803692;CSOD;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-59063;202430;Practica Responsabilidad Socia;3;302;1;985935;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;SI
+30-59066;202430;Semi¢tica;3;305;1;335769;CSOD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-59068;202430;Electiva Cp;3;SALA B;1;936393;CSOD;IBA;IBA;PP;CRIBA;43,84635385;50;93,84635385;Desempe§o Excelente;SI
+30-59073;202430;Proyecto de Vida;3;203;1;483499;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-59072;202430;Com Escrita y Proce Lect II;3;SALA A;1;535293;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-59228;202430;Programaci¢n B†sica;3;SALA B;1;575655;ISUM;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-59233;202430;Introd a la Ingenie de Sistem;3;SALA B;1;984448;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-5927;202430;Proyecto de Vida;3;203;1;405853;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-5928;202430;Proyecto de Vida;3;204;1;483499;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-5929;202430;Psicobiolog°a;3;303;1;36332382;LPID;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-5930;202430;Psicobiolog°a;3;202;1;367778;PSID;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;-
+30-5935;202430;Epistemol para las Cienc Socia;3;204;1;483499;PSID;IBA;IBA;PP;CRIBA;40;50;90;Desempe§o Bueno;SI
+30-59352;202430;Practica Responsabilidad Socia;3;B2-304;1;985935;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;SI
+30-5936;202430;Epistemol para las Cienc Socia;3;305;1;335365;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-5937;202430;Introducci¢n a la Psicolog°a;3;203;1;479699;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-5938;202430;Introducci¢n a la Psicolog°a;3;202;1;445883;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-59572;202430;Electiva Cpc;3;B2-303;1;402379;LPID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-60373;202430;L¢gica Matem†tica;3;B2-303;1;986086;ISUM;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-60373;202430;Introd a la Ingenie de Sistem;3;SALA B;1;984448;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-60374;202430;Com Escrita y Proce Lect I;3;B2-302;1;53930;CSOD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-60375;202430;Programaci¢n B†sica;3;SALA B;1;986003;ISUM;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-63746;202430;Electiva Cp;3;B3-303;1;228665;TRSO;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-63747;202430;Trabajo Social y Salud Mental;3;SALA A;1;985954;TRSO;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-63748;202430;Electiva Cp;3;B3-303;1;439677;TRSO;IBA;IBA;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-63749;202430;Opci¢n de Grado;3;VIRTU;2;0;-;No Encontrada;-;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+30-63750;202430;Electiva Cpc;3;B3-303;1;947897;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-63798;202430;Com Escrita y Proce Lect II;3;303;1;764485;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-63803;202430;Com Escrita y Proce Lect II;3;302;1;535293;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-63802;202430;Introducci¢n a la Investigaci¢;3;302;1;695633;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-63804;202430;Introducci¢n a la Investigaci¢;3;303;1;695633;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-63809;202430;Pensamiento L¢gico Matem†tico;3;303;1;279382;ADFU;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-63832;202430;Pensamiento L¢gico Matem†tico;3;302;1;279382;ADFU;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-63838;202430;Teor°a Psicoanal°tica;3;303;1;335365;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-63820;202430;Teor°a Psicoanal°tica;3;302;1;479699;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-63822;202430;Enfoque Conductista;3;303;1;433793;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-63823;202430;Enfoque Conductista;3;302;1;445883;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-63826;202430;Cerebro y Comportamiento;3;302;1;36332382;LPID;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-63830;202430;Cerebro y Comportamiento;3;303;1;367778;PSID;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;-
+30-63926;202430;Emprendimiento;3;303;1;782232;AEMD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62235;202430;C†tedra Minuto de Dios;3;VIRTU;2;986303;LCNA;IBA;IBA;PP;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+30-62236;202430;C†tedra Minuto de Dios;3;VIRTU;2;402379;LPID;IBA;IBA;PP;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+30-62237;202430;C†tedra Minuto de Dios;3;VIRTU;2;402379;LPID;IBA;IBA;PP;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+30-62243;202430;C†tedra Minuto de Dios;3;VIRTU;2;404250;LEID;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+30-62369;202430;Com Escrita y Proce Lect II;3;B2-302;1;535293;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-62370;202430;C†lculo Diferencial;3;B2-305;1;984450;ISUM;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-62373;202430;µlgebra Lineal;3;B2-304;1;335652;ASOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-62373;202430;Metodolog°a de Investigaci¢n;3;SALA A;1;986003;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62376;202430;Com Escrita y Proce Lect II;3;B2-302;1;764485;CSOD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62378;202430;µlgebra Lineal;3;SALA B;1;984450;ISUM;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-62380;202430;Programaci¢n Orientada A Objet;3;SALA A;1;676367;ISUM;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-62383;202430;Metodolog°a de Investigaci¢n;3;SALA B;1;986003;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62385;202430;Programaci¢n Orientada A Objet;3;SALA A;1;676367;ISUM;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-62386;202430;C†lculo Diferencial;3;B2-303;1;873405;ADFU;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62402;202430;Emprendimiento;3;B2-305;1;946743;AETH;IBA;IBA;PP;CRIBA;38,46353846;50;88,46353846;Desempe§o Bueno;SI
+30-62403;202430;Fundamentos de Mercado;3;B3-303;1;845364;AEMD;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-62404;202430;Patrimonio Cultural;3;B3-303;1;946743;AETH;IBA;IBA;PP;CRIBA;38,46353846;50;88,46353846;Desempe§o Bueno;SI
+30-62405;202430;Electiva Cpc;3;B2-305;1;946743;AETH;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-62406;202430;Matem†tica Financiera;3;B3-303;1;335480;ADFU;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-62434;202430;Fundamentos de Investigaci¢n;3;203;1;802606;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-62435;202430;Escrituras Narrativas;3;203;1;764485;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-62436;202430;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PP;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+30-62437;202430;Taller de Sonido Directo;3;SALA A;1;932047;TRAU;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-62443;202430;Taller de Direcci¢n de Fotogra;3;203;1;838355;CSOD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62442;202430;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PP;INNOVAME;50;0;50;Desempe§o insatisfactorio;-
+30-62452;202430;Taller de Posproducci¢n Sonora;3;303;1;932047;TRAU;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-62459;202430;Planeaci¢n de Proyectos Audiov;3;305;1;932047;TRAU;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-62462;202430;Realizaci¢n Argumental;3;305;1;764485;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-62466;202430;Taller de Direcci¢n de Arte;3;203;1;838355;CSOD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-62468;202430;Opci¢n de Grado;3;VIRTU;2;335769;CSOD;IBA;IBA;PP;CRIBA;50;30;60;Desempe§o insatisfactorio;-
+30-62472;202430;Electiva Cpc;3;303;1;948372;TRSOP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-62473;202430;Electiva Cpc;3;203;1;845403;ADFU;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-62702;202430;Proyecto de Vida;3;B3-305;1;370873;AEMD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-63374;202430;Taller de Direcci¢n de Actores;3;203;1;838355;CSOD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66352;202430;Com Escrita y Proce Lect I;3;SALA 3;1;535293;CSOD;IBA;IBA;PP;INNOVAME;35;50;85;Desempe§o Bueno;SI
+30-66353;202430;Proyecto de Vida;3;SALA 3;1;650528;AEMD;LERIDA;NORTE;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-66354;202430;Emprendimiento;3;SALA 2;1;986093;ISUM;LERIDA;NORTE;PP;INNOVAME;45;50;95;Desempe§o Excelente;SI
+30-66355;202430;Estructura de Datos;3;SALA 2;1;986093;ISUM;LERIDA;NORTE;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66362;202430;L¢gica Matem†tica;3;SALA 3;1;958058;ISUM;LERIDA;NORTE;PP;CRIBA;38,46353846;50;88,46353846;Desempe§o Bueno;SI
+30-66363;202430;Introd a la Ingenie de Sistem;3;SALA 3;1;986093;ISUM;LERIDA;NORTE;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66364;202430;Programaci¢n B†sica;3;SALA 3;1;986093;ISUM;LERIDA;NORTE;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-66366;202430;C†lculo Integral;3;B2-303;1;984450;ISUM;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-66367;202430;C†lculo Integral;3;B2-303;1;984450;ISUM;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-66368;202430;C†lculo Integral;3;3;1;958058;ISUM;LERIDA;NORTE;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66373;202430;F°sica Mec†nica;3;3;1;650528;AEMD;LERIDA;NORTE;PP;CRIBA;40;50;90;Desempe§o Bueno;SI
+30-66373;202430;F°sica Mec†nica;3;B2-303;1;986086;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66374;202430;Emprendimiento;3;B3-306;1;266878;AEMD;LERIDA;NORTE;PP;CRIBA;46,92307692;50;96,92307692;Desempe§o Excelente;SI
+30-66375;202430;Emprendimiento;3;B3-305;1;435726;AEMD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66376;202430;F°sica Mec†nica;3;B2-302;1;986086;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66377;202430;Emprendimiento;3;B2-303;1;602083;AEMD;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66425;202430;Psicobiolog°a;3;202;1;36332382;LPID;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66426;202430;Psicobiolog°a;3;303;1;367778;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;-
+30-66427;202430;Epistemol para las Cienc Socia;3;303;1;335365;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66428;202430;Epistemol para las Cienc Socia;3;305;1;695633;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66429;202430;Introducci¢n a la Psicolog°a;3;303;1;483499;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66430;202430;Introducci¢n a la Psicolog°a;3;302;1;36332382;LPID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66443;202430;Estad°stica para las Cienc I;3;SALA A;1;987846;ESP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-66444;202430;Estad°stica para las Cienc I;3;202;1;987846;ESP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-66445;202430;Estad°stica para las Cienc I;3;303;1;987846;ESP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-66447;202430;Estad°stica para las Cienc I;3;302;1;987846;ESP;IBA;IBA;PP;VACIO;0;0;0;No evaluada;-
+30-66449;202430;Desarrollo Social Contempor†ne;3;203;1;985935;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;SI
+30-66453;202430;Desarrollo Social Contempor†ne;3;202;1;953732;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-66452;202430;Desarrollo Social Contempor†ne;3;303;1;953732;CED;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-66454;202430;Desarrollo Social Contempor†ne;3;302;1;984444;CED;IBA;IBA;PP;INNOVAME;45;50;95;Desempe§o Excelente;SI
+30-66455;202430;Enfoque Cognitivo;3;203;1;36332382;LPID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66456;202430;Enfoque Cognitivo;3;202;1;405853;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66457;202430;Enfoque Cognitivo;3;303;1;479699;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66458;202430;Enfoque Cognitivo;3;302;1;367778;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66459;202430;Enfoque Humanista;3;203;1;483499;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66460;202430;Enfoque Humanista;3;202;1;479699;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66463;202430;Enfoque Humanista;3;303;1;539548;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66462;202430;Enfoque Humanista;3;204;1;483499;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66463;202430;Sensaci¢n Percepci¢n y Atenci¢;3;303;1;445883;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66465;202430;Sensaci¢n Percepci¢n y Atenci¢;3;302;1;764786;PSID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66467;202430;Sensaci¢n Percepci¢n y Atenci¢;3;203;1;539548;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66468;202430;Sensaci¢n Percepci¢n y Atenci¢;3;202;1;445883;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66469;202430;Personalidad;3;203;1;36332382;LPID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66473;202430;Personalidad;3;303;1;367778;PSID;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;-
+30-66472;202430;Personalidad;3;305;1;695633;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66473;202430;Personalidad;3;204;1;695633;PSID;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-66476;202430;Com Escrita y Proce Lect I;3;B3-304;1;936393;CSOD;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-66477;202430;Proyecto de Vida;3;B2-304;1;402379;LPID;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66622;202430;Electiva Cpc;3;3;1;986093;ISUM;LERIDA;NORTE;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66624;202430;Electiva Cpc;3;B2-303;1;986003;ISUM;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-66625;202430;Electiva Cpc;3;B2-302;1;676367;ISUM;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66626;202430;Estructura de Datos;3;B2-303;1;575655;ISUM;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66627;202430;Electiva Cpc;3;B3-307;1;676367;ISUM;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-66628;202430;Estructura de Datos;3;B2-302;1;575655;ISUM;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;SI
+30-66834;202430;Inducci¢n 2 Nuevos;3;VIRTU;2;0;-;No Encontrada;-;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+30-67280;202430;Com Escrita y Proce Lect I;3;302;1;764485;CSOD;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-67283;202430;Taller Creativo;3;305;1;932047;TRAU;IBA;IBA;PP;VACIO;0;0;0;No evaluada;SI
+30-67282;202430;Fundamentos de la Comunicaci¢n;3;203;1;803692;CSOD;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-67322;202430;Fotograf°a Digital;3;SALA B;1;838355;CSOD;IBA;IBA;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-67324;202430;Proyecto de Vida;3;303;1;535293;CSOD;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-67325;202430;An†lisis y Critica Audiovisual;3;302;1;802606;CSOD;IBA;IBA;PP;CRIBA;30;50;80;Desempe§o Bueno;SI
+30-67338;202430;Fundamentos de Matem†ticas;3;SALA B;1;987846;ESP;IBA;IBA;PP;INNOVAME;35;50;85;Desempe§o Bueno;SI
+30-67339;202430;Com Escrita y Proce Lect I;3;B3-303;1;803692;CSOD;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-67439;202430;Introducci¢n a la Activ Tur°st;3;B3-302;1;984452;AETH;IBA;IBA;PP;CRIBA;36,35384635;50;86,35384635;Desempe§o Bueno;SI
+30-67420;202430;Proyecto de Vida;3;B3-305;1;370873;AEMD;IBA;IBA;PP;CRIBA;48,46353846;50;98,46353846;Desempe§o Excelente;SI
+30-67422;202430;Estad°stica Descriptiva;3;B3-303;1;873405;ADFU;IBA;IBA;PP;CRIBA;49,23076923;50;99,23076923;Desempe§o Excelente;SI
+30-67423;202430;Gerencia del Talento Humano;3;B3-306;1;532764;ADFU;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-67424;202430;êtica Profesional;3;LAB;1;340923;LPID;IBA;IBA;PP;INNOVAME;50;50;300;Desempe§o Excelente;-
+30-67425;202430;Gesti¢n de Agencias de Viajes;3;B3-302;1;946743;AETH;IBA;IBA;PP;CRIBA;36,35384635;50;86,35384635;Desempe§o Bueno;SI
+30-67496;202430;Prec†lculo;3;2;1;958058;ISUM;LERIDA;NORTE;PP;CRIBA;47,69230769;50;97,69230769;Desempe§o Excelente;SI
+30-67497;202430;Prec†lculo;3;SALA B;1;93383376;COPD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-67499;202430;Prec†lculo;3;B3-303;1;93383376;COPD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-67906;202430;Programaci¢n B†sica;3;SALA A;1;986003;ISUM;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+30-67936;202430;Pr†ctica Profesional 3;4;VIRTU;2;678568;CED;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+30-67937;202430;Opci¢n de Grado;4;VIRTU;2;678568;CED;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+30-67938;202430;Electiva Cpc;4;VIRTU;2;678568;CED;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+30-67939;202430;Cmd Derechos Humanos;4;VIRTU;2;678568;CED;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+33-335;202433;Seguridad y Salud Laboral;3;B3-303;1;987823;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-336;202433;Fundamentos de Ergonom°a;3;B3-303;1;877868;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-337;202433;Electiva I;3;B3-303;1;953947;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-338;202433;Fisiolog°a del Trabajo;3;B3-303;1;656359;ASOD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-339;202433;Antropometr°a;3;B3-303;1;948524;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-320;202433;Biomec†nica;3;B3-303;1;877868;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-322;202433;Epidemiolog°a en Ergonom°a;3;B3-302;1;948524;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-323;202433;Proyecto de Grado;3;B3-302;1;738598;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-324;202433;Psicolog°a y Sociolog°a del Tr;3;B3-303;1;538334;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-222;202433;MÇtodos de Evaluaci¢n;3;B3-302;1;877868;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-56343;202433;Dise§o y Ergonom°a de Puestos;3;B3-303;1;877868;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-66282;202433;Inducci¢n 2 Nuevos;3;VIRTU;2;85207;Mercadeo;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+33-66393;202433;Tcias Act Dllo Hum Organizacio;3;SALA C;1;538334;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-66425;202433;Comp êtica Organ y Gest Cambio;3;SALA C;1;538334;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-66426;202433;Direc EstratÇgi Gesti¢n Humana;3;VIRTU;2;846904;ESP;IBA;IBA;PP;CRIBA;50;0;50;Desempe§o insatisfactorio;-
+33-66427;202433;Prosp Financier Gesti¢n Humana;3;B3-302;1;833599;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-66428;202433;Metodolog°a de la Investigaci¢;3;SALA C;1;478259;AEMD;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+33-66429;202433;Electiva I;3;B3-302;1;538334;ESP;IBA;IBA;PP;CRIBA;50;50;300;Desempe§o Excelente;-
+32-336;202432;Contabilidad General;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-337;202432;Servicio al Cliente;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-323;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-322;202432;Pr†cticas Formativa;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-329;202432;Fundamen de Costos e Inventari;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-333;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-332;202432;Emprendimiento;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-333;202432;Bienestar del Talento Humano;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-334;202432;Servicio al Cliente;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-335;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-336;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-337;202432;Contabilidad General;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-343;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-343;202432;Pr†cticas;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-345;202432;Comunicaci¢n y Servicio;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-346;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-347;202432;Emprendimiento;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-348;202432;Pr†cticas Formativa;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-349;202432;Bienestar del Talento Humano;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-350;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-353;202432;Fundamen de Costos e Inventari;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-352;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-353;202432;Servicio al Cliente;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-354;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-355;202432;Organizaci¢n de Eventos;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-356;202432;Contabilidad General;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-357;202432;Emprendimiento;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-358;202432;Etapa Pr†ctica;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-360;202432;Procedimiento Operativo Sst;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-363;202432;Normatividad Ssgt;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-362;202432;Gesti¢n del Riesgo de Desastre;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-379;202432;Derechos de la Primera Infanci;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-380;202432;Atenci¢n en la Educaci¢n Infan;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-383;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-382;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-482;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-483;202432;Mantenimiento Correctivo;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-484;202432;Pr†cticas;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-485;202432;Mantenimiento Preventivo;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-486;202432;Normatividad;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-487;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-488;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-489;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-490;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-493;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-492;202432;Salud en la Primera Infancia;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-493;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-494;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-495;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-496;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-497;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-498;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-499;202432;Fundamen de Costos e Inventari;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-503;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-502;202432;C†tedra Minuto de Dios;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-503;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-504;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-508;202432;Pr†cticas Formativa;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-509;202432;Fundamen de Costos e Inventari;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-533;202432;InglÇs II;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-532;202432;Servicio al Cliente;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-533;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-534;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-535;202432;Emprendimiento;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-557;202432;Emprendimiento;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-558;202432;Procedimientos TÇcnicos;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-560;202432;Bienestar del Talento Humano;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-563;202432;Fundamentos y Normatividad Tur;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-566;202432;Bienestar del Talento Humano;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-567;202432;Pr†cticas Formativa;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-576;202432;Servicio al Cliente;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-577;202432;Contabilidad General;3;VIRTU;2;0;-;No Encontrada;-;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+32-578;202432;Bienestar del Talento Humano;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-579;202432;Bienestar del Talento Humano;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-584;202432;Gesti¢n Administrativa;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-585;202432;Siembra de Cultivos;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-586;202432;InglÇs I;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+32-587;202432;Proyecto de Vida;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-588;202432;Emprendimiento;3;VIRTU;2;0;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+32-629;202432;Fotograf°a para Multimedia;3;VIRTU;2;0;-;No Encontrada;-;PD;;0;0;0;No evaluada;-
+35-3376;202435;Fundamentos de las Ciencias Na;2;302;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-3380;202435;Matem†ticas;2;SALA B;1;986552;LCNA;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-3397;202435;Estad°stica Descriptiva;2;SALA A;1;93383376;COPD;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-3880;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3883;202435;Desarrollo Social Contempor†ne;1;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-3883;202435;Desarrollo Social Contempor†ne;1;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;35;35;70;Desempe§o Aceptable;SI
+35-3884;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3885;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3886;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3887;202435;Desarrollo Social Contempor†ne;1;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-3888;202435;Respon Social Practica de Vida;3;VIRTU;2;984444;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3889;202435;Respon Social Practica de Vida;3;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3893;202435;Respon Social Practica de Vida;3;VIRTU;2;953732;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3892;202435;Respon Social Practica de Vida;3;VIRTU;2;984444;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3894;202435;Respon Social Practica de Vida;3;VIRTU;2;694238;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3895;202435;Respon Social Practica de Vida;3;VIRTU;2;694238;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3896;202435;Respon Social Practica de Vida;3;VIRTU;2;694238;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3897;202435;Desarrollo Social Contempor†ne;1;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-3898;202435;Desarrollo Social Contempor†ne;1;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-3900;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3903;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3903;202435;Resoluci¢n Conflictos;1;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3904;202435;Resoluci¢n Conflictos;1;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3905;202435;Resoluci¢n Conflictos;2;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3906;202435;Resoluci¢n Conflictos;2;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3908;202435;Resoluci¢n Conflictos;1;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3909;202435;Resoluci¢n Conflictos;1;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3930;202435;Resoluci¢n Conflictos;2;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3933;202435;Resoluci¢n Conflictos;2;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3933;202435;Resoluci¢n Conflictos;2;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3934;202435;Respon Social Practica de Vida;3;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3930;202435;Finanzas P£blicas;2;B3-306;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3933;202435;Costos II;2;B3-307;1;872553;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3932;202435;Estad°stica Descriptiva;1;B3-302;1;93383376;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3934;202435;Microeconom°a;1;B3-303;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3935;202435;Finanzas P£blicas;1;B3-303;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3936;202435;Contabilidad Financiera III;3;SALA C;1;764492;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3937;202435;Legislaci¢n Comercial;1;VIRTU;2;866970;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3939;202435;Procesos Administrativos;2;VIRTU;2;477338;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3940;202435;Estad°stica Descriptiva;2;B3-302;1;93383376;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3944;202435;Costos II;1;SALA B;1;872553;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-3952;202435;Legislaci¢n Comercial;1;VIRTU;2;866970;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3956;202435;C¢digo êtica de la Ifac;2;B3-303;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3957;202435;Responsabilidad Control Social;1;B3-302;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-3958;202435;Procesos Administrativos;2;VIRTU;2;477338;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3962;202435;Microeconom°a;2;B3-306;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3965;202435;Contabilidad Financiera III;3;SALA C;1;764492;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3966;202435;C¢digo êtica de la Ifac;1;SALA A;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3967;202435;Legislaci¢n Comercial;2;VIRTU;2;866970;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3969;202435;Pr†ctica Profesional III Infor;3;B3-307;1;696376;COPD;IBA;IBA;PD;CRIBA;50;30;80;Desempe§o Bueno;SI
+35-3973;202435;Procesos Administrativos;2;VIRTU;2;477338;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3973;202435;Tributaria II;2;B2-303;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3976;202435;Responsabilidad Control Social;2;B3-307;1;676384;COPD;LERIDA;NORTE;PD;;0;0;0;No evaluada;-
+35-3977;202435;Pr†ctica Profesional III Infor;3;B3-302;1;696376;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-3978;202435;Electiva Cp;2;B3-305;1;676384;COPD;LERIDA;NORTE;PD;;0;0;0;No evaluada;-
+35-3979;202435;Tributaria II;1;B3-302;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3980;202435;Opci¢n de Grado;3;VIRTU;2;407307;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3985;202435;Opci¢n de Grado;3;VIRTU;2;407307;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3986;202435;Procedimiento Tributario;2;B3-307;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3988;202435;Revisor°a Fiscal;1;B3-307;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-3990;202435;Opci¢n de Grado;3;VIRTU;2;407307;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3993;202435;Procedimiento Tributario;1;B3-303;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3992;202435;Formulaci¢n y Evaluaci¢n de Pr;2;B3-302;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3993;202435;Revisor°a Fiscal;2;B3-303;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3994;202435;Electiva Cpc;1;B3-303;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3995;202435;Opci¢n de Grado;3;VIRTU;2;407307;-;No Encontrada;-;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3997;202435;Formulaci¢n y Evaluaci¢n de Pr;2;B3-307;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2000;202435;Procedimiento Tributario;2;B3-302;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2003;202435;Microeconom°a;1;B3-303;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2002;202435;Formulaci¢n y Evaluaci¢n de Pr;2;B3-307;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2004;202435;Contabilidad Financiera III;3;B2-302;1;764492;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2006;202435;Electiva Cpc;1;B3-303;1;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2008;202435;Procedimiento Tributario;2;B2-305;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2030;202435;Formulaci¢n y Evaluaci¢n de Pr;1;SALA A;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2033;202435;Revisor°a Fiscal;1;B3-307;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-2034;202435;Electiva Cpc;2;B3-302;1;607744;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2028;202435;Contabilidad Financiera IV;3;SALA B;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-2029;202435;Estad°stica Inferencia;1;B2-303;1;93383376;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2030;202435;Sistema de Informaci¢n Gerenci;1;VIRTU;2;986093;ISUM;LERIDA;NORTE;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-2033;202435;Fundamentos de Derecho;1;VIRTU;2;866970;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-2032;202435;Fundamentos de Econom°a;2;33;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2034;202435;Macroeconom°a;2;B3-305;1;33228452;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2035;202435;Investigaci¢n Formativa;1;B3-307;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2036;202435;Contabilidad Financiera IV;3;SALA B;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-2037;202435;Estad°stica Inferencia;2;B3-304;1;93383376;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2039;202435;Macroeconom°a;2;B3-303;1;33228452;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2043;202435;Contabilidad Financiera IV;3;SALA A;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-2042;202435;Estad°stica Inferencia;1;B3-303;1;988422;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2045;202435;Macroeconom°a;2;B3-303;1;33228452;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2046;202435;Investigaci¢n Formativa;1;B3-303;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2048;202435;Contabilidad Financiera V;1;B3-306;1;652206;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2050;202435;An†lisis Financiero;2;B2-305;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2054;202435;Fundamentos de Mercado;1;VIRTU;2;764950;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-2055;202435;Electiva Cpc;2;SALA B;1;872553;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2056;202435;Contabilidad Financiera V;2;B3-302;1;872552;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2058;202435;Contabilidad Financiera II;3;9;1;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2059;202435;Matem†tica Financiera;1;33;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2060;202435;Contabilidad Financiera III;3;7;1;652206;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2062;202435;Legislaci¢n Comercial;1;VIRTU;2;866970;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-2063;202435;An†lisis Financiero;1;B3-302;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2064;202435;Fundamentos de Mercado;2;VIRTU;2;764950;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-2065;202435;Electiva Cpc;1;SALA A;1;872553;COPD;LERIDA;NORTE;PD;CRIBA;39,23076923;40;79,23076923;Desempe§o Aceptable;SI
+35-2066;202435;Microeconom°a;1;35;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2067;202435;Procesos Administrativos;2;VIRTU;2;477338;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-2068;202435;Contabilidad Financiera IV;3;32;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-2073;202435;Macroeconom°a;1;37;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2072;202435;Investigaci¢n Formativa;2;3;1;676384;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2073;202435;Contabilidad Financiera V;1;32;1;593480;COPD;PUERTO BOYACA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2074;202435;An†lisis Financiero;2;3;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2076;202435;Fundamentos de Mercado;2;VIRTU;2;479533;AEMD;LA DORADA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-2077;202435;Electiva Cpc;1;34;1;676384;COPD;LERIDA;NORTE;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-2078;202435;Contabilidad Gubernamental;1;B3-305;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2079;202435;Administraci¢n Financiera;2;33;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2080;202435;Pr†ctica Profesional I Fundame;3;33;1;764484;COPD;LERIDA;NORTE;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-2083;202435;Auditor°a y Aseguramiento I;2;2;1;652206;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2082;202435;Costos I;1;4;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-2083;202435;Presupuestos;1;35;1;938384;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2084;202435;C¢digo êtica de la Ifac;1;30;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2085;202435;Responsabilidad Control Social;2;35;1;593480;COPD;PUERTO BOYACA;NORTE;PD;;0;0;0;No evaluada;-
+35-2086;202435;Pr†ctica Profesional III Infor;3;2;1;593480;COPD;PUERTO BOYACA;NORTE;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-2087;202435;Electiva Cp;2;SALA 2;1;593480;COPD;PUERTO BOYACA;NORTE;PD;;0;0;0;No evaluada;-
+35-2093;202435;Tributaria II;1;3;1;593480;COPD;PUERTO BOYACA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2094;202435;Procedimiento Tributario;2;32;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2096;202435;Formulaci¢n y Evaluaci¢n de Pr;1;33;1;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2097;202435;Revisor°a Fiscal;1;3;1;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2302;202435;Electiva Cpc;2;33;1;764484;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2304;202435;Finanzas P£blicas;1;33;1;652206;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2305;202435;Tributaria I;1;8;1;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2306;202435;Pr†ctica Profesional II Trabaj;3;34;1;676384;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2307;202435;Electiva Cpc;2;30;1;652206;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2309;202435;Costos II;2;30;1;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2330;202435;Auditor°a y Aseguramiento II;2;5;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2439;202435;An†lisis Financiero;1;B3-306;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2422;202435;Fundamentos de Mercado;2;VIRTU;2;764950;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-2433;202435;Contabilidad Financiera V;1;B3-304;1;872552;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2435;202435;An†lisis Financiero;1;B3-304;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;48,9;98,9;Desempe§o Excelente;-
+35-2442;202435;Electiva Cpc;2;B3-303;1;872553;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2443;202435;Contabilidad Gubernamental;2;B3-303;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2452;202435;Pr†ctica Profesional I Fundame;3;B2-303;1;685287;COPD;IBA;IBA;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;-
+35-2456;202435;Auditor°a y Aseguramiento I;1;B2-303;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2458;202435;Costos I;2;B3-306;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2459;202435;Contabilidad Gubernamental;1;B3-305;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2463;202435;Administraci¢n Financiera;2;B2-305;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2470;202435;Pr†ctica Profesional I Fundame;3;SALA C;1;872552;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-2475;202435;Auditor°a y Aseguramiento I;1;B3-302;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2478;202435;Costos I;1;B3-303;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2483;202435;Contabilidad Gubernamental;1;34;1;593480;COPD;PUERTO BOYACA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2483;202435;Administraci¢n Financiera;2;SALA B;1;532764;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2486;202435;Pr†ctica Profesional I Fundame;3;B3-307;1;872553;COPD;LERIDA;NORTE;PD;VACIO;0;0;0;No evaluada;SI
+35-253;202435;Introd a la Segur y Salud Trab;2;B2-305;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2533;202435;Com Escrita y Proce Lect I;3;B2-304;1;838355;CSOD;IBA;IBA;PD;INNOVAME;35;40;75;Desempe§o Aceptable;SI
+35-2533;202435;Fundamentos Epistem de la Comu;2;203;1;803692;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2535;202435;Apreciaci¢n Art°stica;2;303;1;845393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2539;202435;Teor°as de la Comunicaci¢n I;2;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2542;202435;Gram†tica;1;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2552;202435;Introducc a la Invest en Comun;2;202;1;845393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2555;202435;Fotograf°a;1;SALA B;1;838355;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-2556;202435;Instituciones Pol°ticas;1;303;1;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2558;202435;Teor°as de la Comunicaci¢n  II;2;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2559;202435;LingÅ°stica  del  Texto;1;204;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2560;202435;Producci¢n Textual;2;203;1;764485;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2563;202435;Producci¢n Sonora;3;SALA A;1;932047;TRAU;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-2574;202435;Teor°a de la Comunicaci¢n  III;2;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2576;202435;Historia Pol°tica y Econ¢ S XX;1;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2577;202435;Literatura;1;203;1;764485;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-258;202435;Com Escrita y Proce Lect I;3;B2-304;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2590;202435;Dise§o y Diagramaci¢n;3;SALA B;1;932047;TRAU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-2596;202435;Comunicaci¢n EstratÇgica;1;303;1;803692;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2607;202435;Auditor°a y Aseguramiento I;2;B2-305;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2608;202435;Costos I;1;B3-306;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2633;202435;Finanzas P£blicas;2;B3-302;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2634;202435;Tributaria I;1;B3-304;1;950229;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2627;202435;Pr†ctica Profesional II Trabaj;3;B3-303;1;607744;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-2628;202435;Electiva Cpc;2;B3-303;1;93362733;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2772;202435;Costos II;1;B3-306;1;950229;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-292;202435;Fundamentos de Matem†ticas;1;B2-305;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;37,05;87,05;Desempe§o Bueno;-
+35-2959;202435;Problemas Contempor†neos;2;202;1;838355;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2960;202435;Cr°tica y Argumentaci¢n;1;303;1;335769;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2963;202435;Producci¢n Audiovisual;3;SALA A;1;802606;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2962;202435;Legislac de Medios de Comunica;1;203;1;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2963;202435;Comunicac Cuidadan y Convivenc;1;204;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2964;202435;GÇneros Period°sticos;2;203;1;802606;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2966;202435;Producci¢n Transmedia;3;SALA A;1;936393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2967;202435;Psicolog°a de la Comunicaci¢n;1;202;1;802606;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2969;202435;Periodismo de Investigaci¢n;2;203;1;838355;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2970;202435;MÇtodos I;1;202;1;845393;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-2973;202435;Producci¢n Web;3;SALA A;1;936393;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-2985;202435;Comunicaci¢n y Acci¢n Colectiv;2;204;1;936393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2987;202435;Laboratorio de Medios;1;SALA A;1;845393;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-2988;202435;MÇtodos II;1;303;1;93383376;COPD;IBA;IBA;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-2992;202435;Electiva Cpc;1;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2993;202435;Dise§o y Formulaci¢n de Proyec;1;203;1;803692;CSOD;IBA;IBA;PD;CRIBA;46,92307692;40;86,92307692;Desempe§o Bueno;SI
+35-2997;202435;Tributaria I;2;B3-302;1;950229;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-2998;202435;Pr†ctica Profesional II Trabaj;3;B3-305;1;607744;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-2999;202435;Electiva Cpc;2;B3-307;1;950229;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3000;202435;Auditor°a y Aseguramiento II;1;B3-305;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3002;202435;Tributaria I;1;B3-303;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3004;202435;Pr†ctica Profesional II Trabaj;3;B3-302;1;607744;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-303;202435;Legisl en Segur y Salud Trabaj;1;B2-303;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-3033;202435;Opci¢n de Grado;3;VIRTU;2;335769;CSOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3034;202435;Auditor°a y Aseguramiento II;2;B3-307;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-302;202435;Legisl en Segur y Salud Trabaj;1;B2-303;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-303;202435;Legisl en Segur y Salud Trabaj;1;B2-303;1;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-305;202435;Factores de Riesgos;2;B2-303;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-306;202435;Factores de Riesgos;2;LAB;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-308;202435;Factores de Riesgos;2;B2-302;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3080;202435;Introducci¢n a la Educac Infan;1;303;1;404250;LEID;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-3083;202435;Proyecto de Vida;2;303;1;539534;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3082;202435;Com Escrita y Proce Lect I;3;203;1;845393;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-3085;202435;Introducci¢n a la Educac Infan;2;303;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3087;202435;Com Escrita y Proce Lect I;3;202;1;535293;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-3088;202435;Fundamentos de Did†ctica Gener;1;203;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3089;202435;Seminario de Infancias;1;303;1;539534;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-309;202435;Anatom°a y Fisiolog°a;2;B2-303;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3090;202435;Psicolog°a del Desarrollo Inte;2;303;1;267203;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3093;202435;Familia Escuela y Sociedad;2;203;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3092;202435;Pr†ctica de Observaci¢n I;3;303;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3093;202435;Psicolog°a del Desarrollo Inte;1;203;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3094;202435;Familia Escuela y Sociedad;1;303;1;779067;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3095;202435;Fundamentos de Did†ctica Gener;2;203;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3096;202435;Seminario de Infancias;2;203;1;539534;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3097;202435;Pr†ctica de Observaci¢n I;3;203;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3098;202435;Cognici¢n y Teor°as del Desarr;1;204;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3099;202435;Modelos Pedag¢gicos;1;SALA B;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-330;202435;Anatom°a y Fisiolog°a;2;LAB;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3300;202435;Did†ctica del Arte Sens y Crea;2;303;1;404250;LEID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3303;202435;Investigaci¢n Educativa;2;204;1;539534;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3302;202435;Construcci¢n y Evaluac de Proy;2;204;1;402379;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3303;202435;Pr†ctica de Observaci¢n II;3;303;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3304;202435;Did†ctica del Arte Sens y Crea;1;SALA B;1;404250;LEID;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-3305;202435;Cognici¢n y Teor°as del Desarr;1;303;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3306;202435;Construcci¢n y Evaluac de Proy;1;302;1;402379;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-3307;202435;Investigaci¢n Educativa;2;303;1;402379;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-332;202435;Anatom°a y Fisiolog°a;2;B2-304;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-333;202435;Costos;2;B2-303;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3382;202435;Modelos Pedag¢gicos;2;202;1;404250;LEID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3383;202435;Pr†ctica de Observaci¢n II;3;302;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3384;202435;Teorias y Dise§o Curricular;1;303;1;779067;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3385;202435;Desarrollo Psicomotor y Juego;1;202;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3386;202435;Did†ctica del Lengu en la Educ;2;202;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3203;202435;Fundamentos de Mercado;1;VIRTU;2;764950;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3207;202435;An†lisis Financiero;2;B2-303;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3209;202435;Psicometr°a;2;VIRTU;2;367778;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3230;202435;Electiva de Profun y Aplica;2;VIRTU;2;445883;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3233;202435;Medici¢n y Evaluaci¢n;1;VIRTU;2;367778;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-3236;202435;Practica Profesional I;3;203;1;445883;PSID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-322;202435;Costos;2;B2-303;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3229;202435;Practica Profesional II;3;202;1;479699;PSID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-324;202435;Costos;2;B2-303;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3254;202435;Dise§o Metodol¢gico de la Inve;2;303;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3256;202435;Pr†ctica de Observaci¢n III;3;303;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3258;202435;Teorias y Dise§o Curricular;2;303;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3263;202435;Desarrollo Psicomotor y Juego;1;SALA B;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3268;202435;Did†ctica del Lengu en la Educ;1;204;1;404250;LEID;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-3270;202435;Dise§o Metodol¢gico de la Inve;2;305;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3336;202435;Pr†ctica de Observaci¢n III;3;204;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3337;202435;Did†ctica del Pensamiento L¢gi;1;SALA B;1;779067;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3338;202435;Evaluaci¢n Educativa;1;SALA A;1;402379;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3339;202435;An†lisis de Resultados en Inve;2;203;1;539534;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3338;202435;Did†ctica del Pensamiento L¢gi;1;305;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3339;202435;Evaluaci¢n Educativa;1;203;1;539534;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3340;202435;An†lisis de Resultados en Inve;2;203;1;402379;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3343;202435;Pr†ctica Formativa I;3;303;1;779067;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3342;202435;Electiva Cpc;1;203;1;402379;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-3343;202435;Pol°ticas P£blicas Educativas;2;303;1;402379;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3344;202435;Curr°culo en Educaci¢n Infanti;2;302;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3345;202435;Pr†ctica Formativa II;3;203;1;735388;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-336;202435;Riesgos Mec†nicos y ElÇctricos;1;B2-304;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;25;75;Desempe§o Aceptable;-
+35-3365;202435;Com Escrita y Proce Lect I;3;B2-305;1;535293;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-3369;202435;Fundamentos de Matem†ticas;1;B3-304;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-338;202435;Riesgos Mec†nicos y ElÇctricos;1;B2-302;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;25,95;75,95;Desempe§o Aceptable;-
+35-3383;202435;Proyecto de Vida;2;B3-304;1;370873;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3384;202435;C†lculo Diferencial;2;B2-303;1;873405;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3386;202435;Contab de Invers y Financ;2;B2-303;1;845403;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3390;202435;Procesos Administrativos;1;VIRTU;2;435726;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3408;202435;Estructura Financiera Colombia;1;B2-303;1;845403;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-343;202435;Riesgos Mec†nicos y ElÇctricos;1;B2-302;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;23,75;73,75;Desempe§o Aceptable;-
+35-3435;202435;Introducci¢n de Investigaci¢n;1;B2-302;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-342;202435;Procesos Administrativos;1;VIRTU;2;478373;ASOD;IBA;IBA;PD;INNOVAME;50;45;95;Desempe§o Excelente;-
+35-343;202435;Procesos Administrativos;1;VIRTU;2;478373;ASOD;IBA;IBA;PD;INNOVAME;50;45;95;Desempe§o Excelente;-
+35-3444;202435;Fundam de Econom y Micro;1;B2-303;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-345;202435;Procesos Administrativos;1;VIRTU;2;478373;ASOD;IBA;IBA;PD;INNOVAME;50;45;95;Desempe§o Excelente;-
+35-3450;202435;C†lculo Integral;1;B3-304;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-3453;202435;Costos;2;B2-303;1;873433;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-346;202435;Riesgos F°sicos;2;LAB;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-347;202435;Riesgos F°sicos;2;LAB;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-349;202435;Riesgos F°sicos;2;B2-303;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-350;202435;Riesgos Qu°micos y Tecnol¢gic;2;LAB;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-353;202435;Riesgos Qu°micos y Tecnol¢gic;2;B3-303;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-353;202435;Riesgos Qu°micos y Tecnol¢gic;2;B2-302;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-354;202435;Medicina Preventiva y del Trab;1;LAB;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;33,75;83,75;Desempe§o Bueno;-
+35-3548;202435;Pr†ctica Formativa III;3;302;1;267203;LPID;IBA;IBA;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-355;202435;Medicina Preventiva y del Trab;1;B3-303;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;33,75;83,75;Desempe§o Bueno;-
+35-356;202435;Medicina Preventiva y del Trab;1;LAB;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;33,75;83,75;Desempe§o Bueno;-
+35-357;202435;Medicina Preventiva y del Trab;1;B3-303;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;34,85;84,85;Desempe§o Bueno;-
+35-3577;202435;Legislaci¢n Comercial;2;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3578;202435;Fundam de Econom y Micro;1;B2-302;1;873433;ADFU;IBA;IBA;PD;INNOVAME;50;38,75;88,75;Desempe§o Bueno;-
+35-3579;202435;Introducci¢n de Investigaci¢n;1;B2-303;1;845362;ADFU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-358;202435;Presupuestos;2;B3-303;1;335480;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3580;202435;C†lculo Integral;2;B2-303;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3583;202435;Costos;2;B2-304;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3582;202435;Legislaci¢n Comercial;2;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3583;202435;Macroeconom°a;2;B2-303;1;873433;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3584;202435;Presupuestos;1;B2-303;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3585;202435;Investigaci¢n Formativa;1;B2-303;1;532764;ADFU;IBA;IBA;PD;INNOVAME;50;48,3;98,3;Desempe§o Excelente;-
+35-3586;202435;Macroeconom°a;2;B3-306;1;873433;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3587;202435;Mediaciones Tecnol¢gicas en Ed;2;204;1;779067;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3588;202435;Educaci¢n Inclusiva y Diversid;1;303;1;735388;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-359;202435;Presupuestos;2;B2-302;1;335480;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3590;202435;Pr†ctica Formativa III;3;303;1;267203;LPID;IBA;IBA;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-3593;202435;Electiva Cp;2;204;1;622390;LPID;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-3594;202435;Pr†ctica de Profundizaci¢n I;3;303;1;779067;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-3596;202435;Electiva Cp;2;202;1;539534;LPID;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-3597;202435;Did†ctica de la Segunda Lengua;2;204;1;404250;LEID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3599;202435;Administraci¢n y Gesti¢n Educa;1;SALA A;1;267203;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3600;202435;Electiva Cp;1;303;1;539534;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-3603;202435;Did†ctica de la Segunda Lengua;2;203;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3602;202435;Pr†ctica de Profundizaci¢n I;3;305;1;779067;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3603;202435;Ambientes de Aprendizaje;1;204;1;65740208;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3604;202435;Electiva Cp;2;303;1;622390;LPID;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-3605;202435;Pr†ctica de Profundizaci¢n II;3;204;1;735388;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3606;202435;Electiva Cp;1;303;1;539534;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-3607;202435;Ambientes de Aprendizaje;2;303;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3608;202435;Pr†ctica de Profundizaci¢n II;3;303;1;735388;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3609;202435;Electiva Cp;1;305;1;539534;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-363;202435;Presupuestos;2;B3-303;1;845403;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3630;202435;Ambientes de Aprendizaje;2;202;1;735388;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-3633;202435;Pr†ctica de Profundizaci¢n II;3;204;1;735388;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-3628;202435;êtica Profesional;1;VIRTU;2;779067;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3632;202435;êtica Profesional;1;VIRTU;2;404250;LEID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-3633;202435;êtica Profesional;1;VIRTU;2;340923;LPID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-3634;202435;êtica Profesional;1;VIRTU;2;340923;LPID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-3636;202435;êtica Profesional;1;VIRTU;2;404250;LEID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-3638;202435;êtica Profesional;2;VIRTU;2;779067;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3639;202435;êtica Profesional;2;VIRTU;2;404250;LEID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3640;202435;êtica Profesional;1;VIRTU;2;779067;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-3643;202435;êtica Profesional;2;VIRTU;2;779067;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-382;202435;Presupuestos;2;B2-303;1;407424;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-383;202435;Riesgos Biol¢gico;1;B3-303;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;47,05;97,05;Desempe§o Excelente;-
+35-385;202435;Riesgos Biol¢gico;1;B3-303;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;46,55;96,55;Desempe§o Excelente;-
+35-386;202435;Riesgos Biol¢gico;1;B2-303;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;47,65;97,65;Desempe§o Excelente;-
+35-387;202435;An†lisis y Diagn Empresarial;1;B3-303;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-388;202435;An†lisis y Diagn Empresarial;1;B2-302;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-389;202435;An†lisis y Diagn Empresarial;1;B3-303;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-390;202435;Riesgos P£blicos;2;B2-304;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-393;202435;Riesgos P£blicos;2;B3-302;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-432;202435;Riesgos P£blicos;2;B2-305;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-434;202435;Riesgos Psicosociales;1;B3-303;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;45,95;95,95;Desempe§o Excelente;-
+35-435;202435;Riesgos Psicosociales;1;B2-302;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;45,6;95,6;Desempe§o Excelente;-
+35-436;202435;Riesgos Psicosociales;1;B2-303;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;47,05;97,05;Desempe§o Excelente;-
+35-437;202435;Estad°stica Descriptiva;2;SALA A;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-438;202435;Estad°stica Descriptiva;2;B3-302;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-439;202435;Estad°stica Descriptiva;2;SALA A;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-420;202435;Introducci¢n a la Investigaci¢;1;B3-303;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;50;49,4;99,4;Desempe§o Excelente;-
+35-423;202435;Introducci¢n a la Investigaci¢;1;B2-303;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-422;202435;Ergonom°a;1;B3-303;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-423;202435;Ergonom°a;1;B3-307;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-424;202435;Riesgos Locat y Tareas de Alto;2;B2-302;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-425;202435;Riesgos Locat y Tareas de Alto;2;B2-302;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-426;202435;Toxicolog°a;2;B2-302;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-427;202435;Toxicolog°a;2;B2-302;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-480;202435;Epidemiolog°a;1;B3-303;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;34,85;84,85;Desempe§o Bueno;-
+35-483;202435;Epidemiolog°a;1;B2-303;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;45,95;95,95;Desempe§o Excelente;-
+35-483;202435;Investigaci¢n de Eventos Labor;1;B3-303;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;45,65;95,65;Desempe§o Excelente;-
+35-484;202435;Investigaci¢n de Eventos Labor;1;B2-303;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;47,5;97,5;Desempe§o Excelente;-
+35-493;202435;Metodolog°a de la Investigac;2;B2-303;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-495;202435;Metodolog°a de la Investigac;2;B3-303;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-534;202435;Estructura de un Plan Negocios;1;VIRTU;2;782232;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;SI
+35-535;202435;Estructura de un Plan Negocios;1;VIRTU;2;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-538;202435;Formulaci¢n y Evaluaci¢n de Pr;2;B2-303;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-539;202435;Formulaci¢n y Evaluaci¢n de Pr;2;B3-307;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-523;202435;An†lisis Financiero;1;B3-307;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-522;202435;An†lisis Financiero;1;B2-303;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-524;202435;Plan de Emergencia y Contingen;1;B3-302;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-525;202435;Plan de Emergencia y Contingen;1;B2-303;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-527;202435;Sist de Gest de Segur y Salud;2;B2-303;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-528;202435;Sist de Gest de Segur y Salud;2;LAB;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-533;202435;Sistemas Integrados de Gesti¢n;1;B3-303;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;48,75;98,75;Desempe§o Excelente;-
+35-533;202435;Sistemas Integrados de Gesti¢n;1;B2-304;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;46,4;96,4;Desempe§o Excelente;-
+35-534;202435;Sistemas Integrados de Gesti¢n;1;LAB;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;25,45;75,45;Desempe§o Aceptable;-
+35-536;202435;Electiva Cpc;2;VIRTU;2;656359;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-537;202435;Electiva Cpc;2;VIRTU;2;656359;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-538;202435;Pr†ctica Profesional;3;B3-303;1;439508;ASOD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-540;202435;Pr†ctica Profesional;3;LAB;1;590030;ASOD;LERIDA;NORTE;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-57287;202435;Proyecto de Vida;2;B3-306;1;370873;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57290;202435;C†lculo Diferencial e Integral;2;3;1;650528;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57294;202435;C†lculo Diferencial e Integral;1;B3-306;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57295;202435;C†lculo Diferencial e Integral;1;B3-302;1;279382;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57304;202435;C†lculo Diferencial e Integral;2;B3-302;1;279382;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57306;202435;C†lculo Diferencial e Integral;2;B3-307;1;279382;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57333;202435;Fundam de Econom y Micro;2;2;1;266878;AEMD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57333;202435;Fundam de Econom y Micro;1;B3-302;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57339;202435;Fundam de Econom y Micro;2;B3-304;1;537748;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57323;202435;Fundam de Econom y Micro;1;B2-303;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57323;202435;Fundam de Econom y Micro;1;SALA C;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57330;202435;Introducci¢n a la Administrac;1;B3-304;1;477338;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57338;202435;Fundamen de Matemat Financiera;2;B2-302;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57343;202435;Fundamentos de Mercado;1;B2-303;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57344;202435;Legislaci¢n Tributaria;2;B2-302;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57345;202435;Electiva Cpc;2;B2-303;1;872553;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57346;202435;µlgebra Lineal;1;B3-305;1;988422;ADFU;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-57353;202435;Matem†ticas Financieras;1;B2-304;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57352;202435;Electiva Cp;2;B2-302;1;486830;AETH;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-57354;202435;Estad°stica Descriptiva;1;B3-306;1;988422;ADFU;IBA;IBA;PD;INNOVAME;50;45,45;95,45;Desempe§o Excelente;SI
+35-57356;202435;An†lisis Financiero;2;B2-303;1;873433;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57357;202435;Electiva Cp;2;B2-303;1;872553;ADFU;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-57593;202435;Electiva Cpc;1;B3-304;1;486830;AETH;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57593;202435;Estad°stica Inferencia;1;B3-305;1;873405;ADFU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-57594;202435;Auditor°a Financiera;1;B2-305;1;486830;AETH;IBA;IBA;PD;INNOVAME;35;40;75;Desempe§o Aceptable;SI
+35-57595;202435;Gerencia EstratÇgica;2;B2-303;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57596;202435;An†lisis y Diagnostico Organ;1;B3-305;1;872553;ADFU;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-57597;202435;Electiva Cpc;2;B2-302;1;845403;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57600;202435;Gerencia EstratÇgica;2;B3-307;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57726;202435;µlgebra Lineal;1;SALA C;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57727;202435;Costos;1;3;1;984449;AEMD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-57728;202435;Macroeconom°a;1;2;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57729;202435;Planeaci¢n y Organizaci¢n;2;33;1;266878;AEMD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57730;202435;µlgebra Lineal;1;B3-303;1;958058;ISUM;LERIDA;NORTE;PD;INNOVAME;30;40;70;Desempe§o Aceptable;SI
+35-57733;202435;Introducci¢n de Investigaci¢n;1;5;1;650528;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57732;202435;µlgebra Lineal;2;B3-307;1;850374;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57734;202435;µlgebra Lineal;1;B2-304;1;958058;ISUM;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57735;202435;Costos;2;B2-305;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57736;202435;Costos;2;B2-302;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57737;202435;Costos;1;B2-303;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57739;202435;µlgebra Lineal;2;7;1;650528;AEMD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57740;202435;Costos;1;B3-304;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57746;202435;Macroeconom°a;1;B3-302;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57748;202435;Macroeconom°a;1;B2-305;1;984449;AEMD;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-57749;202435;Macroeconom°a;2;B3-305;1;33228452;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57750;202435;Macroeconom°a;1;B2-303;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57753;202435;Planeaci¢n y Organizaci¢n;1;B3-303;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57753;202435;Planeaci¢n y Organizaci¢n;1;B3-302;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57754;202435;Planeaci¢n y Organizaci¢n;2;B2-302;1;602083;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57755;202435;Planeaci¢n y Organizaci¢n;2;B3-307;1;477338;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57757;202435;Electiva Cpc;1;B3-307;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57758;202435;Electiva Cpc;1;B3-307;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57760;202435;Electiva Cpc;1;SALA A;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57763;202435;Electiva Cpc;1;5;1;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57762;202435;Estad°stica Descriptiva;1;2;1;650528;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57763;202435;Estad°stica Descriptiva;1;B3-303;1;93383376;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57764;202435;Estad°stica Descriptiva;2;B2-305;1;850374;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57768;202435;Estad°stica Descriptiva;2;B3-305;1;845362;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57773;202435;Investigaci¢n Formativa;2;6;1;479533;AEMD;LA DORADA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57773;202435;Investigaci¢n Formativa;1;SALA A;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57774;202435;Investigaci¢n Formativa;1;B3-303;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57775;202435;Investigaci¢n Formativa;2;B3-307;1;537748;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57776;202435;Investigaci¢n Formativa;1;B2-302;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57777;202435;Presupuestos;2;6;1;266878;AEMD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57779;202435;Presupuestos;1;B3-303;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57783;202435;Presupuestos;2;B3-306;1;676384;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57783;202435;Direcci¢n y Control;2;7;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57784;202435;Direcci¢n y Control;2;SALA C;1;984449;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57789;202435;Direcci¢n y Control;1;B2-302;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57790;202435;Direcci¢n y Control;2;B2-304;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57793;202435;Electiva Cpc;1;B2-302;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57794;202435;Electiva Cpc;2;B2-303;1;537748;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57795;202435;Electiva Cpc;1;B3-303;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57796;202435;Estad°stica Inferencia;1;SALA C;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57797;202435;Estad°stica Inferencia;2;B2-305;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57798;202435;Estad°stica Inferencia;1;B2-303;1;279382;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57799;202435;Estad°stica Inferencia;1;B2-302;1;845362;ADFU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-57800;202435;Fundamentos de Mercados;2;B3-303;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57802;202435;Fundamentos de Mercados;2;3;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57803;202435;Fundamentos de Mercados;2;B3-303;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57804;202435;Fundamentos de Mercados;2;B3-303;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57806;202435;Electiva Cpc;1;SALA C;1;984449;AEMD;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-57808;202435;Electiva Cpc;1;B2-303;1;984449;AEMD;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-57835;202435;Investigaci¢n de Mercados;2;B2-303;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57836;202435;Investigaci¢n de Mercados;2;B3-307;1;764950;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57837;202435;Investigaci¢n de Mercados;2;B3-302;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57823;202435;Matem†tica Financiera;1;SALA A;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;47,8;97,8;Desempe§o Excelente;-
+35-57823;202435;Matem†tica Financiera;1;B2-303;1;845403;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57825;202435;An†lisis Financiero;2;B3-302;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57827;202435;An†lisis Financiero;1;B3-303;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57830;202435;Desarrollo Empresar Colombia;1;B3-303;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57833;202435;Desarrollo Empresar Colombia;2;B2-302;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57837;202435;Legislaci¢n Tributaria;1;6;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57840;202435;Desarrollo Empresar Colombia;2;7;1;602083;AEMD;IBA;IBA;PD;VACIO;0;0;0;No evaluada;-
+35-57843;202435;Legislaci¢n Tributaria;1;B3-303;1;652206;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57843;202435;Legislaci¢n Tributaria;1;SALA B;1;872552;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57846;202435;An†lisis y Diagnostico Organ;1;B3-302;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57847;202435;An†lisis y Diagnostico Organ;1;SALA C;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57848;202435;An†lisis y Diagnostico Organ;1;B2-302;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57849;202435;An†lisis y Diagnostico Organ;1;LAB;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57850;202435;Gerencia de Mercados;2;B3-303;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57853;202435;Gerencia de Mercados;2;B3-303;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57852;202435;Gerencia de Mercados;2;B2-305;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57853;202435;Gerencia de Mercados;2;B2-304;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57854;202435;Casos Empresariales;3;B3-305;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57859;202435;Casos Empresariales;3;B2-303;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57860;202435;Casos Empresariales;3;B3-306;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57863;202435;Formulaci¢n y Evaluaci¢n de Pr;3;B2-305;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57862;202435;Formulaci¢n y Evaluaci¢n de Pr;3;B3-302;1;764950;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57863;202435;Formulaci¢n y Evaluaci¢n de Pr;3;B3-303;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57866;202435;Formulaci¢n y Evaluaci¢n de Pr;3;B3-302;1;764950;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57867;202435;Gerencia de Producci¢n;1;LAB;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57868;202435;Gerencia de Producci¢n;2;B3-303;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57869;202435;Gerencia de Producci¢n;2;B2-303;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57873;202435;Gerencia EstratÇgica;1;B3-302;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57872;202435;Gerencia EstratÇgica;1;B2-305;1;764950;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57874;202435;Gerencia EstratÇgica;2;B2-302;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-57883;202435;Desarrollo Econ¢mico;1;B3-302;1;764950;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-57884;202435;Gerencia Financiera;1;SALA A;1;763528;AEMD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-57957;202435;Pr†ctica Profesional;3;B2-304;1;763528;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-57958;202435;Pr†ctica Profesional;3;B2-302;1;602083;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-57967;202435;Gerencia EstratÇgica;1;B2-303;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-58069;202435;Investigaci¢n Formativa;1;B3-306;1;532764;ADFU;IBA;IBA;PD;INNOVAME;50;47,8;97,8;Desempe§o Excelente;-
+35-58072;202435;Presupuestos;1;B3-306;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-58073;202435;Fundamentos de Matem†ticas;1;B3-303;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;34,85;84,85;Desempe§o Bueno;-
+35-58078;202435;Fundamentos de Matem†ticas;1;B3-304;1;984450;ISUM;IBA;IBA;PD;INNOVAME;30;40;70;Desempe§o Aceptable;SI
+35-58085;202435;Econometr°a;1;B3-307;1;873433;ADFU;IBA;IBA;PD;INNOVAME;50;38,35;88,35;Desempe§o Bueno;-
+35-58086;202435;Pr†ctica Profesional Empresari;3;B3-307;1;407424;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-58099;202435;Fundamentos de Matem†ticas;1;B3-306;1;845362;ADFU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-60237;202435;C†tedra Minuto de Dios;3;VIRTU;2;402379;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-60238;202435;C†tedra Minuto de Dios;3;VIRTU;2;340923;LPID;IBA;IBA;PD;INNOVAME;35;35;70;Desempe§o Aceptable;SI
+35-60239;202435;C†tedra Minuto de Dios;3;VIRTU;2;649559;LPID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-60223;202435;C†tedra Minuto de Dios;3;VIRTU;2;649559;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-60222;202435;C†tedra Minuto de Dios;3;VIRTU;2;649559;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-60223;202435;Fundamentos de Matem†ticas;1;203;1;988422;ADFU;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-60224;202435;Fundamentos de Educaci¢n Pedag;2;303;1;404250;LEID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60225;202435;Fundamentos de Matem†ticas;2;303;1;850374;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60226;202435;Fundamentos de Educaci¢n Pedag;1;202;1;404250;LEID;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-60227;202435;Pr†ctica de Profundizaci¢n III;3;303;1;267203;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-60228;202435;Pr†ctica de Profundizaci¢n III;3;204;1;267203;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-60229;202435;Pr†ctica de Profundizaci¢n III;3;302;1;267203;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-60232;202435;C†tedra Minuto de Dios;3;VIRTU;2;986552;LCNA;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-60233;202435;C†tedra Minuto de Dios;3;VIRTU;2;986552;LCNA;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-60237;202435;C†tedra Minuto de Dios;3;VIRTU;2;986552;LCNA;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-60239;202435;C†tedra Minuto de Dios;3;VIRTU;2;986303;LCNA;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-60299;202435;Com Escrita y Proce Lect I;3;37;1;936393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60303;202435;Contabilidad Financiera I;2;8;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60422;202435;Proyecto de Vida;1;303;1;986303;LCNA;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-60445;202435;Formulaci¢n y Evaluaci¢n de Pr;3;B3-302;1;532764;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60460;202435;êtica Profesional;1;VIRTU;2;622390;LPID;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-60528;202435;Electiva Cpc;1;SALA A;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60532;202435;Estructura de un Plan Negocios;1;202;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60586;202435;Periodismo Ciudadano;2;203;1;53930;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60604;202435;Gerencia de Producci¢n;2;B3-305;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60623;202435;Gerencia Financiera;1;B2-304;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60636;202435;Presupuestos;1;B3-303;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-60775;202435;Estructura de un Plan Negocios;1;VIRTU;2;764950;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-60809;202435;Contabilidad Financiera I;2;B3-305;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63057;202435;C¢digo êtica de la Ifac;2;B3-305;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63558;202435;Pr†ctica Profesional;3;SALA A;1;763528;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-63593;202435;C†tedra Minuto de Dios;3;VIRTU;2;404250;LEID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-63793;202435;Electiva Cpc;1;204;1;402379;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-63795;202435;Pr†ctica Formativa II;3;202;1;735388;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62323;202435;Ges Basi de la Informaci¢n;1;SALA A;1;575655;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62349;202435;Matem†tica Financiera;1;B3-303;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62384;202435;Introducci¢n a la Investigaci¢;1;B3-307;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62389;202435;Ergonom°a;1;B2-303;1;433766;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-62394;202435;Riesgos Locat y Tareas de Alto;2;B3-303;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62437;202435;Toxicolog°a;2;B3-303;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62464;202435;Gerencia EstratÇgica;1;B3-305;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-62465;202435;Gerencia EstratÇgica;1;B3-304;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-62466;202435;Gerencia EstratÇgica;1;B2-304;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-62470;202435;Electiva Cpc;1;B3-304;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;44,85;94,85;Desempe§o Excelente;-
+35-62473;202435;Electiva Cpc;1;B3-305;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;45,95;95,95;Desempe§o Excelente;-
+35-62473;202435;Electiva Cpc;1;B2-304;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;48,75;98,75;Desempe§o Excelente;-
+35-62476;202435;Resiliencia Empresarial;2;B3-304;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62480;202435;Resiliencia Empresarial;2;B3-304;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62485;202435;Resiliencia Empresarial;2;B2-304;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62486;202435;Auditor°a de Sistemas de Gesti;2;B3-305;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62488;202435;Auditor°a de Sistemas de Gesti;2;B3-305;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62493;202435;Auditor°a de Sistemas de Gesti;2;B2-304;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62493;202435;Opci¢n de Grado;3;VIRTU;2;65753864;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62494;202435;Opci¢n de Grado;3;VIRTU;2;65753864;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62496;202435;Opci¢n de Grado;3;VIRTU;2;65753864;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62580;202435;Estad°stica Descriptiva;2;VIRTU;2;987846;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62583;202435;Estad°stica II Inferencial;2;VIRTU;2;850374;ADFU;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62583;202435;Opci¢n de Grado;3;VIRTU;2;335365;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62587;202435;Organismos y Proces Biol¢gic I;1;SALA A;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62599;202435;Pr†ctica Formativa I;3;302;1;779067;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62600;202435;Pol°ticas P£blicas Educativas;2;204;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62603;202435;Curr°culo en Educaci¢n Infanti;2;202;1;735388;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62607;202435;Opci¢n de Grado;3;VIRTU;2;763966;LPID;LERIDA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62609;202435;Opci¢n de Grado;3;VIRTU;2;763966;LPID;LERIDA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62640;202435;F°sica Mec†nica;2;SALA B;1;986552;LCNA;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62643;202435;Qu°mica Fundamental;2;SALA A;1;986303;LCNA;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62648;202435;C†tedra Minuto de Dios;3;VIRTU;2;340923;LPID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-62859;202435;Introducci¢n de Investigaci¢n;1;B3-303;1;782232;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62867;202435;Contabilidad Financiera II;3;B2-302;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62868;202435;Electiva Cmd;1;VIRTU;2;93362733;COPD;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-62869;202435;Fundamentos de Econom°a;1;B3-305;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-62870;202435;Fundamentos de Derecho;2;B2-303;1;866970;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62873;202435;Matem†tica Financiera;1;B3-307;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62873;202435;Contabilidad Financiera II;3;B2-303;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62874;202435;Electiva Cmd;1;VIRTU;2;93362733;COPD;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-62878;202435;Fundamentos de Derecho;2;B3-302;1;866970;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62880;202435;Proyecto de Vida;1;B3-304;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62883;202435;Fundamentos de Mercado;1;B2-302;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-62882;202435;Electiva Cpc;1;B2-304;1;486830;AETH;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-62883;202435;Legislaci¢n Tributaria;2;B2-303;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62884;202435;Fundamen de Matemat Financiera;1;B2-304;1;335480;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62885;202435;Matem†tica Financiera;1;B3-306;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-62886;202435;Sistema de Informaci¢n Gerenci;2;VIRTU;2;984448;ISUM;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62888;202435;Electiva Cmd;2;VIRTU;2;93362733;COPD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-62893;202435;Contabilidad Financiera II;3;B3-302;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62895;202435;Fundamentos de Derecho;1;B3-304;1;866970;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62896;202435;Sistema de Informaci¢n Gerenci;1;VIRTU;2;986003;ISUM;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;SI
+35-62897;202435;Matem†tica Financiera;1;B3-302;1;845403;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62898;202435;Fundamentos de Econom°a;2;B3-302;1;984449;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62936;202435;Contabilidad Financiera V;2;B3-304;1;872552;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62953;202435;Auditor°a y Aseguramiento II;1;B2-303;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62954;202435;Investigaci¢n de Mercados;2;B3-303;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62963;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62962;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62963;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62964;202435;Electiva Cp;1;B3-302;1;764484;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62965;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62966;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62967;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62968;202435;Nivel Principiante;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-62969;202435;Responsabilidad Control Social;2;SALA C;1;872552;COPD;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-62970;202435;Electiva Cp;1;B3-303;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-62973;202435;Tributaria II;1;SALA B;1;356932;COPD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-63004;202435;Direcci¢n y Control;2;B3-303;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63008;202435;Estad°stica Descriptiva;2;B2-305;1;873405;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63030;202435;Fundamentos de Mercados;1;B3-307;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63033;202435;Ges Basi de la Informaci¢n;1;SALA 2;1;986093;ISUM;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63035;202435;Electiva Cpc;2;B2-302;1;580459;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-63036;202435;Matem†tica Financiera;2;B2-302;1;845403;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-63026;202435;Proyecto de Vida;2;3;1;438967;Expansi¢n;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63028;202435;Investigaci¢n de Mercados;2;B3-302;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63034;202435;Respon Social Practica de Vida;3;VIRTU;2;953732;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63036;202435;Electiva Cpc;1;3;1;33228452;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;SI
+35-63037;202435;Respon Social Practica de Vida;3;VIRTU;2;953732;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63038;202435;Respon Social Practica de Vida;3;VIRTU;2;65780309;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63039;202435;Respon Social Practica de Vida;3;VIRTU;2;953732;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63044;202435;Desarrollo Social Contempor†ne;1;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-63047;202435;An†lisis y Diagnostico Organ;1;7;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63048;202435;Gerencia de Mercados;2;5;1;984449;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63049;202435;Casos Empresariales;3;9;1;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63050;202435;Formulaci¢n y Evaluaci¢n de Pr;3;8;1;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63053;202435;Presupuestos;1;B3-302;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63055;202435;Proyecto de Vida;1;VIRTU;2;340832;AEMD;LERIDA;NORTE;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63060;202435;Pr†ctica Profesional;3;SALA B;1;763528;AEMD;IBA;IBA;PD;CRIBA;50;30;80;Desempe§o Bueno;SI
+35-63063;202435;Desarrollo Econ¢mico;2;B3-307;1;763528;AEMD;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-63062;202435;Opci¢n de Grado;3;VIRTU;2;654397;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-63063;202435;Opci¢n de Grado;3;VIRTU;2;654397;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-63064;202435;Opci¢n de Grado;3;VIRTU;2;654397;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-63066;202435;Opci¢n de Grado;3;VIRTU;2;654397;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-63068;202435;Gerencia Financiera;2;B3-305;1;486830;AETH;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-63072;202435;Gerencia Financiera;1;B3-303;1;763528;AEMD;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+35-63073;202435;Desarrollo Econ¢mico;1;SALA C;1;984449;AEMD;IBA;IBA;PD;INNOVAME;45;30;75;Desempe§o Aceptable;SI
+35-63399;202435;Opci¢n de Grado;3;VIRTU;2;654397;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-63246;202435;Presupuestos;2;B3-306;1;763528;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-63284;202435;Proyecto de Vida;2;B3-306;1;370873;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-63308;202435;Mercado de Capitales;1;B3-306;1;873433;ADFU;IBA;IBA;PD;INNOVAME;50;38,75;88,75;Desempe§o Bueno;-
+35-63309;202435;Gerencia Financiera;1;B3-307;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;49,4;99,4;Desempe§o Excelente;-
+35-63330;202435;Electiva Cmd;2;B2-304;1;845403;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-63333;202435;Riesgos Financieros;2;B2-303;1;486830;AETH;IBA;IBA;PD;INNOVAME;50;20;70;Desempe§o Aceptable;-
+35-63332;202435;Opci¢n de Grado;3;VIRTU;2;532764;ADFU;IBA;IBA;PD;CRIBA;50;25;75;Desempe§o Aceptable;-
+35-63323;202435;Presupuestos;1;SALA C;1;872552;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-63534;202435;Psicolog°a de la Comunicaci¢n;2;VIRTU;2;803692;CSOD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63535;202435;êtica Profesional;2;VIRTU;2;936393;CSOD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63536;202435;Legislac de Medios de Comunica;1;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-63644;202435;Pr†ctica Profesional;3;303;1;845393;CSOD;IBA;IBA;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-63834;202435;C†tedra Minuto de Dios;3;VIRTU;2;340923;LPID;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-63926;202435;Teor°a Psicoanal°tica;1;VIRTU;2;479699;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-63927;202435;Adultez Vejez y Muerte;1;VIRTU;2;479699;PSID;IBA;IBA;PD;CRIBA;50;25;75;Desempe§o Aceptable;-
+35-63928;202435;Psicolog°a Cognitiva;1;VIRTU;2;36332382;LPID;IBA;IBA;PD;CRIBA;50;25;75;Desempe§o Aceptable;-
+35-63929;202435;Procesos Psicol¢gicos Sociales;2;VIRTU;2;479699;PSID;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64034;202435;Proyecto de Vida;1;202;1;649559;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64036;202435;Observaci¢n Educativa y Pedag¢;1;303;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64039;202435;Ambientes de Aprendizaje;1;303;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64025;202435;Did†ctica de las Ciencias Natu;2;203;1;986552;LCNA;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64026;202435;An†lisis Qu°mico;2;305;1;986303;LCNA;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64027;202435;Epistemolog°a Ambiental;2;203;1;986303;LCNA;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64047;202435;Ambientes de Aprendizaje;1;303;1;340923;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64074;202435;Inducci¢n 2 Nuevos;3;VIRTU;2;85207;Mercadeo;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64335;202435;Educaci¢n Inclusiva y Diversid;1;302;1;404250;LEID;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-64320;202435;Mediaciones Tecnol¢gicas en Ed;2;203;1;622390;LPID;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64364;202435;Com Escrita y Proce Lect I;3;SALA A;1;535293;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-64230;202435;An†lisis y Diagn Empresarial;1;B2-305;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-64233;202435;Riesgos Psicosociales;1;B2-305;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;49,4;99,4;Desempe§o Excelente;-
+35-64232;202435;Epidemiolog°a;1;B3-303;1;656359;ASOD;IBA;IBA;PD;INNOVAME;50;34,35;84,35;Desempe§o Bueno;-
+35-64233;202435;Investigaci¢n de Eventos Labor;1;B3-303;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;46,25;96,25;Desempe§o Excelente;-
+35-64238;202435;Pr†ctica Profesional;3;B3-302;1;590030;ASOD;LERIDA;NORTE;PD;CRIBA;37,69230769;40;77,69230769;Desempe§o Aceptable;SI
+35-64220;202435;Com Escrita y Proce Lect I;3;B2-305;1;802606;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64222;202435;Fundamentos de Matem†ticas;1;B2-305;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;35,95;85,95;Desempe§o Bueno;-
+35-64224;202435;Ges Basi de la Informaci¢n;1;SALA B;1;575655;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64306;202435;Proyecto de Vida;1;B3-305;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64330;202435;Riesgos Qu°micos y Tecnol¢gic;2;B3-303;1;537742;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64333;202435;Gerencia del Talento Humano;2;B2-303;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64332;202435;Introd a la Segur y Salud Trab;2;B2-304;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64333;202435;Proyecto de Vida;2;B2-304;1;370873;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64334;202435;Gerencia del Talento Humano;2;B3-303;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64335;202435;Metodolog°a de la Investigac;2;B3-302;1;360483;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64336;202435;Estad°stica Descriptiva;2;B3-303;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64325;202435;Introd a la Segur y Salud Trab;2;B2-305;1;590030;ASOD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64326;202435;Proyecto de Vida;2;B2-303;1;649559;LPID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64336;202435;Gerencia del Talento Humano;2;B2-303;1;478373;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64338;202435;Fundamentos de Matem†ticas;2;B2-303;1;845362;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64340;202435;Com Escrita y Proce Lect I;3;B3-303;1;838355;CSOD;IBA;IBA;PD;INNOVAME;35;40;75;Desempe§o Aceptable;SI
+35-64363;202435;Com Escrita y Proce Lect I;3;VIRTU;2;803692;CSOD;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-64364;202435;Producci¢n Web;1;VIRTU;2;936393;CSOD;IBA;IBA;PD;INNOVAME;40;35;75;Desempe§o Aceptable;SI
+35-64365;202435;Periodismo de Investigaci¢n;1;VIRTU;2;845393;CSOD;IBA;IBA;PD;INNOVAME;30;35;65;Desempe§o insatisfactorio;SI
+35-64366;202435;MÇtodos I;1;VIRTU;2;845393;CSOD;IBA;IBA;PD;INNOVAME;45;35;80;Desempe§o Bueno;SI
+35-64367;202435;Plan de Medios Digitales;2;203;1;845393;CSOD;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64433;202435;êtica Profesional;1;303;1;802606;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64433;202435;Comunic y Partic en Medios Dig;1;SALA B;1;936393;CSOD;IBA;IBA;PD;CRIBA;42,30769231;40;82,30769231;Desempe§o Bueno;SI
+35-64436;202435;Comunicaci¢n y Acci¢n Colectiv;2;VIRTU;2;936393;CSOD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64429;202435;Ges Basi de la Informaci¢n;2;B2-305;1;575655;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64435;202435;Electiva Cpc;3;B2-305;1;873433;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64442;202435;Estad°stica Descriptiva;2;34;1;650528;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64453;202435;Ges Basi de la Informaci¢n;1;B3-304;1;676367;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64453;202435;Ges Basi de la Informaci¢n;1;B3-304;1;986003;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64474;202435;Estructura de un Plan Negocios;2;VIRTU;2;799370;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64475;202435;Estructura de un Plan Negocios;2;VIRTU;2;764950;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64479;202435;Fundamentos de Econom°a;1;3;1;739032;ESP;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64480;202435;Matem†tica Financiera;1;3;1;739032;ESP;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64483;202435;Electiva Cmd;1;VIRTU;2;652206;COPD;IBA;IBA;PD;INNOVAME;30;35;65;Desempe§o insatisfactorio;SI
+35-64485;202435;Ges Basi de la Informaci¢n;1;SALA B;1;676367;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64487;202435;Electiva Cpc;1;B3-302;1;872553;COPD;LERIDA;NORTE;PD;CRIBA;48,46353846;40;88,46353846;Desempe§o Bueno;-
+35-64490;202435;Sistema de Informaci¢n Gerenci;2;VIRTU;2;986093;ISUM;LERIDA;NORTE;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64497;202435;Proyecto de Vida;2;VIRTU;2;438967;Expansi¢n;LA DORADA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64498;202435;Contabilidad Financiera I;2;2;1;593480;COPD;PUERTO BOYACA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64500;202435;Fundamentos de Derecho;2;VIRTU;2;866970;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64503;202435;Contabilidad Financiera II;3;4;1;593480;COPD;PUERTO BOYACA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64506;202435;Innovaci¢n Creati Gene Ideas;2;VIRTU;2;845393;CSOD;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64507;202435;Com Escrita y Proce Lect I;3;B2-302;1;535293;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64509;202435;Ges Basi de la Informaci¢n;1;SALA A;1;984448;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64530;202435;Ges Basi de la Informaci¢n;1;SALA B;1;676367;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64533;202435;Ges Basi de la Informaci¢n;2;SALA B;1;984448;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64524;202435;Proyecto de Vida;2;B3-306;1;93393332;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64525;202435;Contabilidad Financiera I;2;B3-304;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64526;202435;Electiva Cpc;2;B3-304;1;652206;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64527;202435;Revisor°a Fiscal;2;B3-303;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64528;202435;Proyecto de Vida;1;B2-304;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64542;202435;Contabilidad Financiera I;2;B3-305;1;93393332;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64543;202435;Ges Basi de la Informaci¢n;2;SALA A;1;676367;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64637;202435;Desarrollo Social Contempor†ne;2;VIRTU;2;439733;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64639;202435;Respon Social Practica de Vida;3;VIRTU;2;694238;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64640;202435;Casos Empresariales;3;B2-304;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64643;202435;Formulaci¢n y Evaluaci¢n de Pr;3;B3-303;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64655;202435;Pr†ctica Profesional;3;3;1;266878;AEMD;LERIDA;NORTE;PD;CRIBA;49,23076923;40;89,23076923;Desempe§o Bueno;SI
+35-64658;202435;An†lisis Financiero;1;SALA B;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;50;300;Desempe§o Excelente;-
+35-64659;202435;Desarrollo Empresar Colombia;1;B3-302;1;602083;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64660;202435;Desarrollo Empresar Colombia;1;B2-303;1;435726;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64663;202435;An†lisis Financiero;1;SALA C;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64663;202435;Legislaci¢n Tributaria;1;B3-303;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64665;202435;Matem†tica Financiera;1;B2-303;1;845403;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64666;202435;Desarrollo Econ¢mico;1;B2-302;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64668;202435;Psicolog°a Jur°dica;1;VIRTU;2;695633;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64669;202435;Psicolog°a Organizacional;2;VIRTU;2;479699;PSID;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64670;202435;Electiva Cpc;2;VIRTU;2;695633;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64675;202435;Ges Basi de la Informaci¢n;1;SALA C;1;559335;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64676;202435;Ges Basi de la Informaci¢n;1;SALA A;1;986003;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64678;202435;Desarrollo Econ¢mico;1;B2-302;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64679;202435;Gerencia Financiera;1;B3-306;1;763528;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64683;202435;Introducci¢n a la Administrac;1;B3-303;1;845364;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64684;202435;Costos;1;B2-303;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64685;202435;Electiva Cpc;1;B3-307;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64686;202435;Gerencia de Producci¢n;1;B2-303;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64687;202435;Introducci¢n a la Administrac;1;B3-302;1;477338;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64689;202435;Matem†tica Financiera;1;3;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64690;202435;Gerencia EstratÇgica;1;4;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64693;202435;Electiva Cpc;1;6;1;623356;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64697;202435;Introducci¢n a la Administrac;1;4;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64703;202435;Estad°stica Inferencia;1;8;1;650528;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64702;202435;Riesgos P£blicos;2;B3-303;1;439508;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64704;202435;Electiva Cpc;2;VIRTU;2;656359;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64708;202435;Presupuestos;2;B2-304;1;580459;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64730;202435;An†lisis Financiero;2;B3-304;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64733;202435;Legislaci¢n Tributaria;2;B3-303;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64735;202435;Proyecto de Vida;2;B3-303;1;370873;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64738;202435;Introducci¢n a la Administrac;2;B3-306;1;763528;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64739;202435;Introducci¢n de Investigaci¢n;2;B3-302;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64723;202435;Introducci¢n de Investigaci¢n;2;B2-303;1;370873;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64722;202435;Presupuestos;2;B3-302;1;984449;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64726;202435;Ges Basi de la Informaci¢n;1;33;1;986093;ISUM;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64727;202435;Proyecto de Vida;2;4;1;650528;AEMD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64728;202435;Costos;2;B3-306;1;580459;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64730;202435;Presupuestos;2;B3-304;1;782232;AEMD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64736;202435;Gerencia de Producci¢n;2;8;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64739;202435;Introducci¢n de Investigaci¢n;2;B3-302;1;537748;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64740;202435;An†lisis Financiero;2;B2-302;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64743;202435;Ges Basi de la Informaci¢n;2;B3-303;1;986003;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64742;202435;Gerencia Financiera;2;B3-303;1;763528;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64752;202435;Ges Basi de la Informaci¢n;1;SALA B;1;986003;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64753;202435;Ges Basi de la Informaci¢n;1;SALA3;1;984448;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64757;202435;Legislaci¢n Comercial;2;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64758;202435;Legislaci¢n Comercial;1;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64759;202435;Legislaci¢n Comercial;2;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64763;202435;Legislaci¢n Comercial;2;VIRTU;2;948372;TRSOP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64762;202435;Pr†ctica Profesional I Fundame;3;B2-303;1;950229;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64785;202435;Contabilidad Financiera IV;3;B3-307;1;682740;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64786;202435;Contabilidad Financiera III;3;B2-302;1;764492;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64792;202435;Electiva Cmd;2;VIRTU;2;652206;COPD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64796;202435;Administraci¢n Financiera;1;B3-304;1;407424;ADFU;IBA;IBA;PD;INNOVAME;50;48,3;98,3;Desempe§o Excelente;-
+35-64825;202435;Electiva Cpc;2;B3-307;1;872553;COPD;LERIDA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64826;202435;An†lisis Financiero;1;B3-302;1;872553;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64827;202435;Electiva Cpc;1;B3-306;1;93362733;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64828;202435;Costos II;1;SALA A;1;872553;COPD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64829;202435;Electiva Cpc;2;B2-304;1;93362733;COPD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64830;202435;Finanzas P£blicas;2;B3-304;1;685287;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64833;202435;Procedimiento Tributario;1;B2-303;1;356932;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64833;202435;Microeconom°a;1;B2-304;1;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64834;202435;Comun Escr y Procesos Lectores;3;B3-303;1;932047;TRAU;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-64835;202435;Comun Escr y Procesos Lectores;3;B2-303;1;932047;TRAU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-64836;202435;Comun Escr y Procesos Lectores;3;B2-302;1;802606;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64837;202435;Fundamentos de Matem†ticas;1;SALA B;1;279382;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64838;202435;Fundamentos de Matem†ticas;1;B3-303;1;335652;ASOD;IBA;IBA;PD;INNOVAME;50;33,35;83,35;Desempe§o Bueno;-
+35-64839;202435;Fundamentos de Matem†ticas;1;B2-304;1;987846;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64840;202435;Comun Escr y Procesos Lectores;3;B3-307;1;838355;CSOD;IBA;IBA;PD;INNOVAME;35;40;75;Desempe§o Aceptable;SI
+35-64843;202435;Comun Escr y Procesos Lectores;3;2;1;936393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64842;202435;Comun Escr y Procesos Lectores;3;3;1;764485;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64843;202435;Fundamentos de Matem†ticas;1;B2-304;1;845362;ADFU;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+35-64845;202435;Fundamentos de Matem†ticas;1;2;1;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64846;202435;Fundamentos de Matem†ticas;1;3;1;650528;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64847;202435;Introducci¢n a la Administraci;1;B2-305;1;477338;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64849;202435;Introducci¢n a la Administraci;1;B3-303;1;477338;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64850;202435;Introducci¢n a la Administraci;1;B3-303;1;477338;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64853;202435;Introducci¢n a la Administraci;1;B3-302;1;477338;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;SI
+35-64852;202435;Introducci¢n a la Administraci;1;6;1;266878;AEMD;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64853;202435;Introducci¢n a la Administraci;1;3;1;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64854;202435;Introducci¢n a la Investigacio;2;B2-304;1;782232;AEMD;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64855;202435;Introducci¢n a la Investigacio;2;B2-304;1;782232;AEMD;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64856;202435;Introducci¢n a la Investigacio;2;B2-305;1;986003;ISUM;IBA;IBA;PD;CRIBA;0;40;40;Desempe§o insatisfactorio;-
+35-64857;202435;Introducci¢n a la Investigacio;2;B3-302;1;537748;AEMD;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64858;202435;Introducci¢n a la Investigacio;2;2;1;266878;AEMD;LERIDA;NORTE;PD;;0;0;0;No evaluada;-
+35-64859;202435;Introducci¢n a la Investigacio;2;3;1;479533;AEMD;LA DORADA;NORTE;PD;;0;0;0;No evaluada;-
+35-64867;202435;Electiva Cpc;2;SALA A;1;802606;CSOD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64873;202435;µlgebra Lineal;1;B3-303;1;279382;ADFU;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64872;202435;Matem†ticas Financieras;1;B3-303;1;845403;ADFU;IBA;IBA;PD;INNOVAME;50;20;70;Desempe§o Aceptable;-
+35-64873;202435;Electiva Cp;2;B3-303;1;486830;AETH;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64874;202435;Electiva Cpc;2;SALA B;1;532764;ADFU;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+35-64876;202435;C†lculo Diferencial e Integral;2;VIRTU;2;93383376;COPD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64877;202435;Fundam de Econom y Micro;1;VIRTU;2;33228452;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64878;202435;Introducci¢n a la Administrac;1;VIRTU;2;763528;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64879;202435;Introducci¢n de Investigaci¢n;2;VIRTU;2;435726;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64880;202435;C†tedra Minuto de Dios;3;VIRTU;2;479533;AEMD;LA DORADA;NORTE;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64883;202435;Periodismo Ciudadano;2;VIRTU;2;53930;CSOD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64882;202435;Prueba de Clasificaci¢n InglÇs;3;VIRTU;2;765089;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64893;202435;Contabilidad Financiera V;2;SALA A;1;872552;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64903;202435;Auditor°a y Control Interno;2;VIRTU;2;478373;ASOD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64904;202435;Compras y Suministros;1;VIRTU;2;478373;ASOD;IBA;IBA;PD;INNOVAME;50;45;95;Desempe§o Excelente;-
+35-64930;202435;Electiva Cp;1;VIRTU;2;593385;ASOD;IBA;IBA;PD;CRIBA;50;22,8;72,8;Desempe§o Aceptable;SI
+35-64933;202435;Electiva Cpc;2;VIRTU;2;593385;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64933;202435;Fundamentos de Matem†ticas;2;33;1;958058;ISUM;LERIDA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64933;202435;Com Escrita y Proce Lect I;3;203;1;936393;CSOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64932;202435;Ges Basi de la Informaci¢n;2;B2-303;1;676367;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64933;202435;Com Escrita y Proce Lect I;3;B3-307;1;535293;CSOD;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+35-64974;202435;Ges Basi de la Informaci¢n;1;SALA A;1;984448;ISUM;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+35-64989;202435;Practica Profesional;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64990;202435;Opci¢n de Grado;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64993;202435;Electiva Cmd;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64992;202435;Estructura de un Plan Negocios;4;VIRTU;2;678568;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64993;202435;Pr†ctica de Profundizaci¢n III;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64994;202435;Opci¢n de Grado;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64995;202435;Resoluci¢n Conflictos;4;VIRTU;2;678568;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64996;202435;êtica Profesional;4;VIRTU;2;678568;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-64997;202435;Innovaci¢n Creati Gene Ideas;4;VIRTU;2;678568;CED;IBA;IBA;PD;;0;0;0;No evaluada;-
+35-64998;202435;Pr†ctica Profesional;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-64999;202435;Opci¢n de Grado;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+35-65000;202435;Estructura de un Plan Negocios;4;VIRTU;2;678568;CED;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+35-65003;202435;Electiva Cpc;4;VIRTU;2;678568;CED;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+23-338;202423;Fundamentos Financieros;1;SALA A;1;593584;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-339;202423;Decisiones de Inversi¢n;2;SALA A;1;593584;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-340;202423;Mercado de Dinero y Capital;1;SALA A;1;738594;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-343;202423;Metodolog°a de la Investigaci¢;3;SALA A;1;823547;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-343;202423;Direccionamiento EstratÇgico;1;VIRTU;2;822592;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-344;202423;Gesti¢n del Riesgo Financiero;2;SALA B;1;738594;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-345;202423;Finanzas Corporativas;2;SALA B;1;593584;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-347;202423;Opci¢n de Grado;3;VIRTU;2;823547;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+23-56223;202423;Electiva Fintech;1;SALA B;1;823547;ESP;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+23-56225;202423;Direccionamiento EstratÇgico;2;VIRTU;2;833599;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56226;202423;Metodolog°a de la Investigaci¢;3;AUD;1;478259;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56227;202423;Medicina Preventiva y del Trab;1;AUD;1;987823;ESP;IBA;IBA;PD;INNOVAME;40;40;80;Desempe§o Bueno;SI
+23-56228;202423;Legislaci¢n en Seguridad y Sal;2;AUD;1;866970;COPD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56229;202423;Higiene y Seguridad Industrial;2;AUD;1;953947;ESP;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56230;202423;Metodolog°a de la Investigaci¢;3;38;1;732370;AEMD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56233;202423;Medicina Preventiva y del Trab;2;38;1;452723;-;No Encontrada;-;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56232;202423;Legislaci¢n en Seguridad y Sal;2;38;1;739032;ESP;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56235;202423;Medicina Preventiva y del Trab;2;32;1;452723;-;No Encontrada;-;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56305;202423;Higiene y seguridad industrial;1;8;1;739032;ESP;LA DORADA;NORTE;PD;VACIO;0;0;0;No evaluada;SI
+23-56237;202423;Higiene y Seguridad Industrial;2;8;1;739032;ESP;LA DORADA;NORTE;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56299;202423;Direccionamiento EstratÇgico;2;VIRTU;2;822592;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56303;202423;Direccionamiento EstratÇgico;2;VIRTU;2;822592;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56303;202423;Ergonom°a Laboral;2;B3-303;1;0;-;No Encontrada;-;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56304;202423;Gesti¢n en Seguridad y Salud E;1;B3-303;1;593385;ASOD;IBA;IBA;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56335;202423;Competencias Gerenciales;2;VIRTU;2;846904;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56336;202423;Psicosociolog°a Aplicada al Tr;2;B3-303;1;538334;ESP;IBA;IBA;PD;;0;0;0;No evaluada;-
+23-56337;202423;Auditor°a y Costos en Segurida;1;B3-303;1;490573;COPD;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+23-56338;202423;Opci¢n de Grado;3;VIRTU;2;732370;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56339;202423;Competencias Gerenciales;2;VIRTU;2;805745;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56320;202423;Psicosociolog°a Aplicada al Tr;2;SALA 3;1;739032;ESP;LA DORADA;NORTE;PD;;0;0;0;No evaluada;-
+23-56323;202423;Gesti¢n en Seguridad y Salud E;2;SALA 3;1;452723;-;No Encontrada;-;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56322;202423;Ergonom°a Laboral;1;SALA 3;1;948524;ESP;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+23-56323;202423;Auditor°a y Costos en Segurida;1;SALA 3;1;953947;ESP;IBA;IBA;PD;INNOVAME;35;30;65;Desempe§o insatisfactorio;SI
+23-56324;202423;Opci¢n de Grado;3;VIRTU;2;732370;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56325;202423;Competencias Gerenciales;2;VIRTU;2;823547;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+23-56326;202423;Psicosociolog°a Aplicada al Tr;2;9;1;739032;ESP;LA DORADA;NORTE;PD;;0;0;0;No evaluada;-
+23-56327;202423;Gesti¢n en Seguridad y Salud E;2;32;1;452723;-;No Encontrada;-;PD;INNOVAME;50;40;90;Desempe§o Bueno;-
+23-56328;202423;Ergonom°a Laboral;1;9;1;948524;ESP;IBA;IBA;PD;INNOVAME;45;40;85;Desempe§o Bueno;SI
+23-56329;202423;Auditor°a y Costos en Segurida;1;9;1;953947;ESP;IBA;IBA;PD;INNOVAME;35;30;65;Desempe§o insatisfactorio;SI
+23-56337;202423;Inducci¢n 2 Nuevos;3;VIRTU;2;85207;Mercadeo;IBA;IBA;PD;VACIO;0;0;0;No evaluada;-
+85-3000;202485;Conceptos de Innovaci¢n Empres;3;SALA C;1;799370;AEMD;IBA;IBA;PD;INNOVAME;50;30;80;Desempe§o Bueno;-
+85-3003;202485;Herramientas Efectivas Para La;3;VIRTU;2;799370;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+85-3002;202485;Gesti¢n de Oportunidades de Ne;3;VIRTU;2;435726;AEMD;IBA;IBA;PD;INNOVAME;30;35;65;Desempe§o insatisfactorio;-
+85-3003;202485;Desarrollo de Modelos de Negoc;3;VIRTU;2;435726;AEMD;IBA;IBA;PD;INNOVAME;30;35;65;Desempe§o insatisfactorio;-
+85-3004;202485;Dp en Marketing Digital e IAS;3;VIRTU;2;845364;AEMD;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+85-3005;202485;M¢dulo 3 Selecci¢n y Capataci¢;3;B2-304;1;593438;ASOD;LA DORADA;NORTE;PD;INNOVAME;45;40;85;Desempe§o Bueno;-
+85-3006;202485;M¢dulo 2 Elaboraci¢n de Manual;3;VIRTU;2;593438;ASOD;LA DORADA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-3007;202485;M¢dulo 3 Sistema de Gesti¢n;3;B2-304;1;593438;ASOD;LA DORADA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-3008;202485;M¢dulo 4 Cuarta Revoluci¢n Ind;3;B2-304;1;593438;ASOD;LA DORADA;NORTE;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-3009;202485;M¢dulo 3 Planificaci¢n Sg Sst;3;B2-302;1;433766;ASOD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-3030;202485;M¢dulo 4 Aplicaci¢n Sistema;3;B2-302;1;433766;ASOD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-3033;202485;M¢dulo 5 Auditor°a Revisi¢n;3;SALA B;1;433766;ASOD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-3032;202485;M¢dulo 6 Mejora Continua;3;B2-303;1;433766;ASOD;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-3033;202485;Principios Gerenciales;3;VIRTU;2;833599;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-3024;202485;Modulo 3 2 y 3;3;VIRTU;2;335365;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-3025;202485;M¢dulo 7 8 y 9;3;VIRTU;2;335365;PSID;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-3026;202485;Modulo 3 Movimiento Educaci¢n;3;302;1;404250;LEID;IBA;IBA;PD;CRIBA;50;40;90;Desempe§o Bueno;-
+85-733;202485;Antropometr°a;3;VIRTU;2;948524;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-734;202485;Biomec†nica;3;VIRTU;2;877868;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-735;202485;Fundamentos de Ergonom°a;3;VIRTU;2;877868;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-736;202485;Direccionamiento EstratÇgico;3;VIRTU;2;987355;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-743;202485;Gerencia Conocimiento Tecnolog;3;VIRTU;2;822592;ESP;IBA;IBA;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+85-742;202485;Principios Gerenciales;3;VIRTU;2;833599;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-744;202485;Competencias Gerenciales;3;VIRTU;2;538334;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-746;202485;Principios Gerenciales;3;VIRTU;2;738598;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-747;202485;Direccionamiento EstratÇgico;3;VIRTU;2;822592;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-748;202485;Metodolog°a de la Investigaci¢;3;VIRTU;2;823547;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-750;202485;Electiva;3;VIRTU;2;823547;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-873;202485;M¢dulo 3 Impuestos;3;VIRTU;2;950229;COPD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-874;202485;M¢dulo 2 Impuestos Directos;3;VIRTU;2;356932;COPD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-875;202485;Modulo 3 Fundamentos;3;VIRTU;2;676384;COPD;LERIDA;NORTE;PD;INNOVAME;50;35;85;Desempe§o Bueno;-
+85-876;202485;Modulo 2 Auditor°a;3;VIRTU;2;682740;COPD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-877;202485;M¢dulo 3 Definiciones Generale;3;VIRTU;2;872553;COPD;LERIDA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-878;202485;M¢dulo 2 Costos Conjuntos y Co;3;VIRTU;2;764484;COPD;LERIDA;NORTE;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-978;202485;Dp Op Talento Humano Desar Org;3;VIRTU;2;532764;ADFU;IBA;IBA;PD;CRIBA;49,23076923;35;84,23076923;Desempe§o Bueno;-
+85-979;202485;Metodolog°a de la Investigaci¢;3;VIRTU;2;478259;AEMD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-980;202485;Tend Actu Dllo Hum en las Orga;3;VIRTU;2;538334;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-983;202485;Comp êtica Organ y Gest Cambio;3;VIRTU;2;593385;ASOD;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-982;202485;Direccionamiento EstratÇgico;3;VIRTU;2;846904;ESP;IBA;IBA;PD;CRIBA;50;35;85;Desempe§o Bueno;-
+85-992;202485;Dp Op Familia Infancia Adolesc;3;B2-303;1;985954;TRSO;IBA;IBA;PD;CRIBA;50;0;50;Desempe§o insatisfactorio;-
