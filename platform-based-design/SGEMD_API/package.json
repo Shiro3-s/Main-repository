@@ -1,0 +1,35 @@
+{
+  "name": "sgemd-app",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión de Emprendimientos - SGEMD",
+  "main": "app.js",
+
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon src/app.js",
+    "dev-backend": "nodemon src/app.js",
+    "dev-frontend": "cd client && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.0",
+    "nodemailer": "^7.0.10"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "emprendimiento",
+    "gestión",
+    "educación"
+  ]
+  
+}
