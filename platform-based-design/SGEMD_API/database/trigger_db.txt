@@ -1,0 +1,295 @@
+USE DB_SEGMED;
+
+-- Insertar datos en tablas de referencia primero
+
+-- Tabla Municipios (20 municipios de Colombia)
+INSERT INTO Municipios (idMunicipio, Nombre, FechaCreacion, FechaActualizacion) VALUES
+(1, 'Bogotá', '2024-01-01', '2024-01-01'),
+(2, 'Medellín', '2024-01-01', '2024-01-01'),
+(3, 'Cali', '2024-01-01', '2024-01-01'),
+(4, 'Barranquilla', '2024-01-01', '2024-01-01'),
+(5, 'Cartagena', '2024-01-01', '2024-01-01'),
+(6, 'Ibagué', '2024-01-01', '2024-01-01'),
+(7, 'Bucaramanga', '2024-01-01', '2024-01-01'),
+(8, 'Pereira', '2024-01-01', '2024-01-01'),
+(9, 'Manizales', '2024-01-01', '2024-01-01'),
+(10, 'Armenia', '2024-01-01', '2024-01-01'),
+(11, 'Villavicencio', '2024-01-01', '2024-01-01'),
+(12, 'Pasto', '2024-01-01', '2024-01-01'),
+(13, 'Neiva', '2024-01-01', '2024-01-01'),
+(14, 'Popayán', '2024-01-01', '2024-01-01'),
+(15, 'Tunja', '2024-01-01', '2024-01-01'),
+(16, 'Florencia', '2024-01-01', '2024-01-01'),
+(17, 'Valledupar', '2024-01-01', '2024-01-01'),
+(18, 'Montería', '2024-01-01', '2024-01-01'),
+(19, 'Sincelejo', '2024-01-01', '2024-01-01'),
+(20, 'Riohacha', '2024-01-01', '2024-01-01');
+
+-- Tabla ProgramaAcademico
+INSERT INTO ProgramaAcademico (Nombre, FechaCreacion, FechaActualizacion) VALUES
+('Administración de Empresas', '2024-01-01', '2024-01-01'),
+('Ingeniería de Sistemas', '2024-01-01', '2024-01-01'),
+('Contaduría Pública', '2024-01-01', '2024-01-01'),
+('Psicología', '2024-01-01', '2024-01-01'),
+('Derecho', '2024-01-01', '2024-01-01'),
+('Medicina', '2024-01-01', '2024-01-01'),
+('Ingeniería Civil', '2024-01-01', '2024-01-01'),
+('Diseño Gráfico', '2024-01-01', '2024-01-01'),
+('Marketing Digital', '2024-01-01', '2024-01-01'),
+('Comunicación Social', '2024-01-01', '2024-01-01');
+
+-- Tabla Roles
+INSERT INTO Roles (Nombre, FechaCreacion, FechaActualizacion) VALUES
+('Estudiante', '2024-01-01', '2024-01-01'),
+('Docente', '2024-01-01', '2024-01-01'),
+('Coordinador', '2024-01-01', '2024-01-01'),
+('Administrador', '2024-01-01', '2024-01-01'),
+('Emprendedor', '2024-01-01', '2024-01-01');
+
+-- Tabla TipoDocumentos
+INSERT INTO TipoDocumentos (TipoDocumento, FechaCreacion, FechaActualizacion) VALUES
+('Cédula de Ciudadanía', '2024-01-01', '2024-01-01'),
+('Tarjeta de Identidad', '2024-01-01', '2024-01-01'),
+('Cédula de Extranjería', '2024-01-01', '2024-01-01'),
+('Pasaporte', '2024-01-01', '2024-01-01'),
+('Registro Civil', '2024-01-01', '2024-01-01');
+
+-- Tabla TipoUsuarios
+INSERT INTO TipoUsuarios (TipodeUsuario, FechaCreacion, FechaActualizacion) VALUES
+('Estudiante', '2024-01-01', '2024-01-01'),
+('Docente', '2024-01-01', '2024-01-01'),
+('Administrativo', '2024-01-01', '2024-01-01');
+
+-- Tabla CentroUniversitarios
+INSERT INTO CentroUniversitarios (Nombre, FechaCreacion, FechaActualizacion) VALUES
+('Centro de Emprendimiento', '2024-01-01', '2024-01-01'),
+('Centro de Investigación', '2024-01-01', '2024-01-01'),
+('Centro de Bienestar', '2024-01-01', '2024-01-01'),
+('Centro de Innovación', '2024-01-01', '2024-01-01'),
+('Centro de Extensión', '2024-01-01', '2024-01-01');
+
+-- Tabla TipoPoblacion
+INSERT INTO TipoPoblacion (Nombre, FechaCreacion, FechaActualizacion) VALUES
+('Población General', '2024-01-01', '2024-01-01'),
+('Población Vulnerable', '2024-01-01', '2024-01-01'),
+('Población Desplazada', '2024-01-01', '2024-01-01'),
+('Población Indígena', '2024-01-01', '2024-01-01'),
+('Población Afrodescendiente', '2024-01-01', '2024-01-01');
+
+-- Tabla Modulos
+INSERT INTO Modulos (Asistencia, Practicas, OpcionGrado, FechaCreacion, FechaActualizacion) VALUES
+('Presencial', 'Laboratorios', 'Trabajo de Grado', '2024-01-01', '2024-01-01'),
+('Virtual', 'Proyectos', 'Examen de Grado', '2024-01-01', '2024-01-01'),
+('Mixta', 'Pasantías', 'Monografía', '2024-01-01', '2024-01-01'),
+('Presencial', 'Seminarios', 'Diplomado', '2024-01-01', '2024-01-01'),
+('Virtual', 'Talleres', 'Curso Dirigido', '2024-01-01', '2024-01-01');
+
+-- Tabla EtapadeEmpedimiento
+INSERT INTO EtapadeEmpedimiento (Estado, FechaCreacion, FechaActualizacion, TipoEtapa) VALUES
+(1, '2024-01-01', '2024-01-01', 'Ideación'),
+(1, '2024-01-01', '2024-01-01', 'Validación'),
+(1, '2024-01-01', '2024-01-01', 'Prototipado'),
+(1, '2024-01-01', '2024-01-01', 'Desarrollo'),
+(1, '2024-01-01', '2024-01-01', 'Comercialización');
+
+-- Tabla SectoEconomico
+INSERT INTO SectoEconomico (Nombre) VALUES
+('Tecnología'),
+('Comercio'),
+('Servicios'),
+('Manufactura'),
+('Agricultura'),
+('Turismo'),
+('Salud'),
+('Educación'),
+('Finanzas'),
+('Construcción');
+
+-- Tabla Seguimientos
+INSERT INTO Seguimientos (histproal, TipoSeguimiento, Descripcion, Seguimientoscol, FechaCreacion, FechaActualizacion) VALUES
+('Primer seguimiento', 'Inicial', 'Seguimiento de inicio', 'En proceso', '2024-01-01', '2024-01-01'),
+('Segundo seguimiento', 'Intermedio', 'Seguimiento de progreso', 'Activo', '2024-01-01', '2024-01-01'),
+('Tercer seguimiento', 'Final', 'Seguimiento de cierre', 'Completado', '2024-01-01', '2024-01-01'),
+('Seguimiento especial', 'Correctivo', 'Seguimiento correctivo', 'En revisión', '2024-01-01', '2024-01-01'),
+('Seguimiento mensual', 'Rutinario', 'Seguimiento rutinario', 'Programado', '2024-01-01', '2024-01-01');
+
+-- Tabla Modalidad
+INSERT INTO Modalidad (idModalidad, Presencial, Distancia, Enlace_virtual, Lugar) VALUES
+(1, 1, 0, 'https://meet.google.com/abc-def-ghi', 'Aula 101'),
+(2, 0, 1, 'https://zoom.us/j/123456789', 'Virtual'),
+(3, 1, 1, 'https://teams.microsoft.com/l/meetup', 'Aula 202'),
+(4, 1, 0, 'N/A', 'Auditorio Principal'),
+(5, 0, 1, 'https://meet.google.com/xyz-uvw-rst', 'Virtual');
+
+-- Tabla Fecha_y_Horarios
+INSERT INTO Fecha_y_Horarios (idFecha_y_Horarios, Fecha_inicio, Hora_inicio, Fecha_fin, Hora_fin) VALUES
+(1, '2024-03-01 08:00:00', '2024-03-01 08:00:00', '2024-03-01 10:00:00', '2024-03-01 10:00:00'),
+(2, '2024-03-02 14:00:00', '2024-03-02 14:00:00', '2024-03-02 16:00:00', '2024-03-02 16:00:00'),
+(3, '2024-03-03 09:00:00', '2024-03-03 09:00:00', '2024-03-03 11:00:00', '2024-03-03 11:00:00'),
+(4, '2024-03-04 15:00:00', '2024-03-04 15:00:00', '2024-03-04 17:00:00', '2024-03-04 17:00:00'),
+(5, '2024-03-05 10:00:00', '2024-03-05 10:00:00', '2024-03-05 12:00:00', '2024-03-05 12:00:00');
+
+-- Tabla Tipo_evento
+INSERT INTO Tipo_evento (idTipo_evento, Academico, Cultura, Deportivo, Social, Conerencia) VALUES
+(1, 'Seminario', 'Teatro', 'Fútbol', 'Integración', 'Tecnología'),
+(2, 'Conferencia', 'Música', 'Baloncesto', 'Networking', 'Innovación'),
+(3, 'Taller', 'Danza', 'Voleibol', 'Celebración', 'Emprendimiento'),
+(4, 'Curso', 'Arte', 'Atletismo', 'Encuentro', 'Sostenibilidad'),
+(5, 'Foro', 'Literatura', 'Natación', 'Reunión', 'Digitalización');
+
+-- Ahora insertar los 50 usuarios con datos variados
+INSERT INTO Usuarios (
+    Nombre, CorreoInstitucional, CorreoPersonal, Celular, Telefono, Direcccion, 
+    Genero, EstadoCivil, FechaNacimiento, Modulos_idModulos, Municipios_idMunicipio, 
+    ProgramaAcademico_idProgramaAcademico, Roles_idRoles1, TipoDocumentos_idTipoDocumento, 
+    TipoUsuarios_idTipoUsuarios, ProgramaAcademico_idProgramaAcademico1, 
+    CentroUniversitarios_idCentroUniversitarios, Estado, Semestre, Modalidad, 
+    TipoPoblacion_idTipoPoblacion, FechaCreacion, FechaActualizacion
+) VALUES
+('Ana García López', 'ana.garcia@univ.edu.co', 'ana.garcia@gmail.com', '3001234567', '6011234567', 'Calle 10 #15-20', 'Femenino', 'Soltero', '2000-03-15', 1, 1, 1, 1, 1, 1, 1, 1, 1, '8', 'Presencial', 1, '2024-01-15', '2024-01-15'),
+('Carlos Rodríguez Pérez', 'carlos.rodriguez@univ.edu.co', 'carlos.rodriguez@yahoo.com', '3002345678', '6012345678', 'Carrera 20 #25-30', 'Masculino', 'Casado', '1999-07-22', 2, 2, 2, 1, 1, 1, 2, 2, 1, '6', 'Virtual', 2, '2024-01-16', '2024-01-16'),
+('María Fernández Torres', 'maria.fernandez@univ.edu.co', 'maria.fernandez@hotmail.com', '3003456789', '6013456789', 'Avenida 30 #40-50', 'Femenino', 'Soltero', '2001-11-08', 3, 3, 3, 2, 2, 2, 3, 3, 1, '10', 'Mixta', 3, '2024-01-17', '2024-01-17'),
+('Juan Martínez Silva', 'juan.martinez@univ.edu.co', 'juan.martinez@gmail.com', '3004567890', '6014567890', 'Calle 50 #60-70', 'Masculino', 'Divorciado', '1998-05-12', 4, 4, 4, 2, 2, 2, 4, 4, 1, '4', 'Presencial', 4, '2024-01-18', '2024-01-18'),
+('Laura Gómez Ruiz', 'laura.gomez@univ.edu.co', 'laura.gomez@outlook.com', '3005678901', '6015678901', 'Carrera 70 #80-90', 'Femenino', 'Soltero', '2002-01-25', 5, 5, 5, 3, 3, 3, 5, 5, 1, '2', 'Virtual', 5, '2024-01-19', '2024-01-19'),
+('Diego Herrera Castro', 'diego.herrera@univ.edu.co', 'diego.herrera@gmail.com', '3006789012', '6016789012', 'Calle 90 #100-110', 'Masculino', 'Casado', '1997-09-30', 1, 6, 1, 4, 4, 4, 1, 1, 1, '9', 'Presencial', 1, '2024-01-20', '2024-01-20'),
+('Sandra López Vargas', 'sandra.lopez@univ.edu.co', 'sandra.lopez@yahoo.com', '3007890123', '6017890123', 'Avenida 110 #120-130', 'Femenino', 'Viudo', '2000-12-18', 2, 7, 2, 5, 5, 5, 2, 2, 1, '7', 'Mixta', 2, '2024-01-21', '2024-01-21'),
+('Andrés Morales Jiménez', 'andres.morales@univ.edu.co', 'andres.morales@hotmail.com', '3008901234', '6018901234', 'Carrera 130 #140-150', 'Masculino', 'Soltero', '2001-04-03', 3, 8, 3, 1, 1, 1, 3, 3, 1, '5', 'Virtual', 3, '2024-01-22', '2024-01-22'),
+('Patricia Ramírez Ochoa', 'patricia.ramirez@univ.edu.co', 'patricia.ramirez@gmail.com', '3009012345', '6019012345', 'Calle 150 #160-170', 'Femenino', 'Casado', '1999-08-14', 4, 9, 4, 2, 2, 2, 4, 4, 1, '8', 'Presencial', 4, '2024-01-23', '2024-01-23'),
+('Roberto Sánchez Mendoza', 'roberto.sanchez@univ.edu.co', 'roberto.sanchez@outlook.com', '3010123456', '6010123456', 'Avenida 170 #180-190', 'Masculino', 'Soltero', '2002-06-27', 5, 10, 5, 3, 3, 3, 5, 5, 1, '3', 'Mixta', 5, '2024-01-24', '2024-01-24'),
+('Isabel Torres Aguilar', 'isabel.torres@univ.edu.co', 'isabel.torres@gmail.com', '3011234567', '6011234567', 'Carrera 190 #200-210', 'Femenino', 'Divorciado', '1998-10-09', 1, 11, 6, 4, 4, 4, 6, 1, 1, '10', 'Virtual', 1, '2024-01-25', '2024-01-25'),
+('Fernando Díaz Ramos', 'fernando.diaz@univ.edu.co', 'fernando.diaz@yahoo.com', '3012345678', '6012345678', 'Calle 210 #220-230', 'Masculino', 'Casado', '2000-02-11', 2, 12, 7, 5, 5, 5, 7, 2, 1, '6', 'Presencial', 2, '2024-01-26', '2024-01-26'),
+('Carmen Jiménez Vega', 'carmen.jimenez@univ.edu.co', 'carmen.jimenez@hotmail.com', '3013456789', '6013456789', 'Avenida 230 #240-250', 'Femenino', 'Soltero', '2001-12-23', 3, 13, 8, 1, 1, 1, 8, 3, 1, '4', 'Mixta', 3, '2024-01-27', '2024-01-27'),
+('Miguel Rojas Paredes', 'miguel.rojas@univ.edu.co', 'miguel.rojas@gmail.com', '3014567890', '6014567890', 'Carrera 250 #260-270', 'Masculino', 'Viudo', '1999-05-05', 4, 14, 9, 2, 2, 2, 9, 4, 1, '9', 'Virtual', 4, '2024-01-28', '2024-01-28'),
+('Gloria Herrera Campos', 'gloria.herrera@univ.edu.co', 'gloria.herrera@outlook.com', '3015678901', '6015678901', 'Calle 270 #280-290', 'Femenino', 'Casado', '2002-07-17', 5, 15, 10, 3, 3, 3, 10, 5, 1, '2', 'Presencial', 5, '2024-01-29', '2024-01-29'),
+('Sergio Muñoz Restrepo', 'sergio.munoz@univ.edu.co', 'sergio.munoz@gmail.com', '3016789012', '6016789012', 'Avenida 290 #300-310', 'Masculino', 'Soltero', '1998-11-29', 1, 16, 1, 4, 4, 4, 1, 1, 1, '7', 'Mixta', 1, '2024-01-30', '2024-01-30'),
+('Mónica Castro Guerrero', 'monica.castro@univ.edu.co', 'monica.castro@yahoo.com', '3017890123', '6017890123', 'Carrera 310 #320-330', 'Femenino', 'Divorciado', '2000-03-02', 2, 17, 2, 5, 5, 5, 2, 2, 1, '8', 'Virtual', 2, '2024-01-31', '2024-01-31'),
+('Ricardo Peña Salinas', 'ricardo.pena@univ.edu.co', 'ricardo.pena@hotmail.com', '3018901234', '6018901234', 'Calle 330 #340-350', 'Masculino', 'Casado', '2001-08-14', 3, 18, 3, 1, 1, 1, 3, 3, 1, '5', 'Presencial', 3, '2024-02-01', '2024-02-01'),
+('Liliana Vargas Molina', 'liliana.vargas@univ.edu.co', 'liliana.vargas@gmail.com', '3019012345', '6019012345', 'Avenida 350 #360-370', 'Femenino', 'Soltero', '1999-12-26', 4, 19, 4, 2, 2, 2, 4, 4, 1, '3', 'Mixta', 4, '2024-02-02', '2024-02-02'),
+('Jaime Medina Correa', 'jaime.medina@univ.edu.co', 'jaime.medina@outlook.com', '3020123456', '6020123456', 'Carrera 370 #380-390', 'Masculino', 'Viudo', '2002-04-08', 5, 20, 5, 3, 3, 3, 5, 5, 1, '10', 'Virtual', 5, '2024-02-03', '2024-02-03'),
+('Elena Cárdenas Pinto', 'elena.cardenas@univ.edu.co', 'elena.cardenas@gmail.com', '3021234567', '6021234567', 'Calle 390 #400-410', 'Femenino', 'Casado', '1998-06-20', 1, 1, 6, 4, 4, 4, 6, 1, 1, '6', 'Presencial', 1, '2024-02-04', '2024-02-04'),
+('Gustavo Ortega Luna', 'gustavo.ortega@univ.edu.co', 'gustavo.ortega@yahoo.com', '3022345678', '6022345678', 'Avenida 410 #420-430', 'Masculino', 'Soltero', '2000-09-01', 2, 2, 7, 5, 5, 5, 7, 2, 1, '4', 'Mixta', 2, '2024-02-05', '2024-02-05'),
+('Adriana Contreras Navarro', 'adriana.contreras@univ.edu.co', 'adriana.contreras@hotmail.com', '3023456789', '6023456789', 'Carrera 430 #440-450', 'Femenino', 'Divorciado', '2001-01-13', 3, 3, 8, 1, 1, 1, 8, 3, 1, '9', 'Virtual', 3, '2024-02-06', '2024-02-06'),
+('Héctor Vásquez Soto', 'hector.vasquez@univ.edu.co', 'hector.vasquez@gmail.com', '3024567890', '6024567890', 'Calle 450 #460-470', 'Masculino', 'Casado', '1999-03-25', 4, 4, 9, 2, 2, 2, 9, 4, 1, '2', 'Presencial', 4, '2024-02-07', '2024-02-07'),
+('Beatriz Romero Flores', 'beatriz.romero@univ.edu.co', 'beatriz.romero@outlook.com', '3025678901', '6025678901', 'Avenida 470 #480-490', 'Femenino', 'Viudo', '2002-05-07', 5, 5, 10, 3, 3, 3, 10, 5, 1, '7', 'Mixta', 5, '2024-02-08', '2024-02-08'),
+('Óscar Delgado Ríos', 'oscar.delgado@univ.edu.co', 'oscar.delgado@gmail.com', '3026789012', '6026789012', 'Carrera 490 #500-510', 'Masculino', 'Soltero', '1998-07-19', 1, 6, 1, 4, 4, 4, 1, 1, 1, '8', 'Virtual', 1, '2024-02-09', '2024-02-09'),
+('Nayda Rivera Serrano', 'nayda.rivera@univ.edu.co', 'nayda.rivera@yahoo.com', '3027890123', '6027890123', 'Calle 510 #520-530', 'Femenino', 'Casado', '2000-10-31', 2, 7, 2, 5, 5, 5, 2, 2, 1, '5', 'Presencial', 2, '2024-02-10', '2024-02-10'),
+('Álvaro Quintero Cano', 'alvaro.quintero@univ.edu.co', 'alvaro.quintero@hotmail.com', '3028901234', '6028901234', 'Avenida 530 #540-550', 'Masculino', 'Divorciado', '2001-12-12', 3, 8, 3, 1, 1, 1, 3, 3, 1, '3', 'Mixta', 3, '2024-02-11', '2024-02-11'),
+('Esperanza Gil Moreno', 'esperanza.gil@univ.edu.co', 'esperanza.gil@gmail.com', '3029012345', '6029012345', 'Carrera 550 #560-570', 'Femenino', 'Soltero', '1999-02-24', 4, 9, 4, 2, 2, 2, 4, 4, 1, '10', 'Virtual', 4, '2024-02-12', '2024-02-12'),
+('Francisco Acosta Ibarra', 'francisco.acosta@univ.edu.co', 'francisco.acosta@outlook.com', '3030123456', '6030123456', 'Calle 570 #580-590', 'Masculino', 'Viudo', '2002-04-06', 5, 10, 5, 3, 3, 3, 5, 5, 1, '6', 'Presencial', 5, '2024-02-13', '2024-02-13'),
+('Victoria Blanco Suárez', 'victoria.blanco@univ.edu.co', 'victoria.blanco@gmail.com', '3031234567', '6031234567', 'Avenida 590 #600-610', 'Femenino', 'Casado', '1998-06-18', 1, 11, 6, 4, 4, 4, 6, 1, 1, '4', 'Mixta', 1, '2024-02-14', '2024-02-14'),
+('Emilio Rubio Espinoza', 'emilio.rubio@univ.edu.co', 'emilio.rubio@yahoo.com', '3032345678', '6032345678', 'Carrera 610 #620-630', 'Masculino', 'Soltero', '2000-08-30', 2, 12, 7, 5, 5, 5, 7, 2, 1, '9', 'Virtual', 2, '2024-02-15', '2024-02-15'),
+('Claudia Reyes Bermúdez', 'claudia.reyes@univ.edu.co', 'claudia.reyes@hotmail.com', '3033456789', '6033456789', 'Calle 630 #640-650', 'Femenino', 'Divorciado', '2001-11-11', 3, 13, 8, 1, 1, 1, 8, 3, 1, '2', 'Presencial', 3, '2024-02-16', '2024-02-16'),
+('Ramón Cruz Mejía', 'ramon.cruz@univ.edu.co', 'ramon.cruz@gmail.com', '3034567890', '6034567890', 'Avenida 650 #660-670', 'Masculino', 'Casado', '1999-01-23', 4, 14, 9, 2, 2, 2, 9, 4, 1, '7', 'Mixta', 4, '2024-02-17', '2024-02-17'),
+('Amparo Salazar Vidal', 'amparo.salazar@univ.edu.co', 'amparo.salazar@outlook.com', '3035678901', '6035678901', 'Carrera 670 #680-690', 'Femenino', 'Viudo', '2002-03-05', 5, 15, 10, 3, 3, 3, 10, 5, 1, '8', 'Virtual', 5, '2024-02-18', '2024-02-18'),
+('Tomás Guerrero Rincón', 'tomas.guerrero@univ.edu.co', 'tomas.guerrero@gmail.com', '3036789012', '6036789012', 'Calle 690 #700-710', 'Masculino', 'Soltero', '1998-05-17', 1, 16, 1, 4, 4, 4, 1, 1, 1, '5', 'Presencial', 1, '2024-02-19', '2024-02-19'),
+('Rocío Zamora Peláez', 'rocio.zamora@univ.edu.co', 'rocio.zamora@yahoo.com', '3037890123', '6037890123', 'Avenida 710 #720-730', 'Femenino', 'Casado', '2000-07-29', 2, 17, 2, 5, 5, 5, 2, 2, 1, '3', 'Mixta', 2, '2024-02-20', '2024-02-20'),
+('Esteban Lozano Arango', 'esteban.lozano@univ.edu.co', 'esteban.lozano@hotmail.com', '3038901234', '6038901234', 'Carrera 730 #740-750', 'Masculino', 'Divorciado', '2001-09-10', 3, 18, 3, 1, 1, 1, 3, 3, 1, '10', 'Virtual', 3, '2024-02-21', '2024-02-21'),
+('Soledad Cardona Zapata', 'soledad.cardona@univ.edu.co', 'soledad.cardona@gmail.com', '3039012345', '6039012345', 'Calle 750 #760-770', 'Femenino', 'Soltero', '1999-11-22', 4, 19, 4, 2, 2, 2, 4, 4, 1, '6', 'Presencial', 4, '2024-02-22', '2024-02-22'),
+('Ignacio Parra Henao', 'ignacio.parra@univ.edu.co', 'ignacio.parra@outlook.com', '3040123456', '6040123456', 'Avenida 770 #780-790', 'Masculino', 'Viudo', '2002-01-04', 5, 20, 5, 3, 3, 3, 5, 5, 1, '4', 'Mixta', 5, '2024-02-23', '2024-02-23'),
+('Pilar Montoya Ossa', 'pilar.montoya@univ.edu.co', 'pilar.montoya@gmail.com', '3041234567', '6041234567', 'Carrera 790 #800-810', 'Femenino', 'Casado', '1998-03-16', 1, 1, 6, 4, 4, 4, 6, 1, 1, '9', 'Virtual', 1, '2024-02-24', '2024-02-24'),
+('Arturo Valencia Mesa', 'arturo.valencia@univ.edu.co', 'arturo.valencia@yahoo.com', '3042345678', '6042345678', 'Calle 810 #820-830', 'Masculino', 'Soltero', '2000-05-28', 2, 2, 7, 5, 5, 5, 7, 2, 1, '2', 'Presencial', 2, '2024-02-25', '2024-02-25'),
+('Consuelo Duarte Giraldo', 'consuelo.duarte@univ.edu.co', 'consuelo.duarte@hotmail.com', '3043456789', '6043456789', 'Avenida 830 #840-850', 'Femenino', 'Divorciado', '2001-07-09', 3, 3, 8, 1, 1, 1, 8, 3, 1, '7', 'Mixta', 3, '2024-02-26', '2024-02-26'),
+('Leopoldo Bedoya Hurtado', 'leopoldo.bedoya@univ.edu.co', 'leopoldo.bedoya@gmail.com', '3044567890', '6044567890', 'Carrera 850 #860-870', 'Masculino', 'Casado', '1999-09-21', 4, 4, 9, 2, 2, 2, 9, 4, 1, '8', 'Virtual', 4, '2024-02-27', '2024-02-27'),
+('Margarita Ospina Vélez', 'margarita.ospina@univ.edu.co', 'margarita.ospina@outlook.com', '3045678901', '6045678901', 'Calle 870 #880-890', 'Femenino', 'Viudo', '2002-12-03', 5, 5, 10, 3, 3, 3, 10, 5, 1, '5', 'Presencial', 5, '2024-02-28', '2024-02-28'),
+('Reinaldo Jaramillo Botero', 'reinaldo.jaramillo@univ.edu.co', 'reinaldo.jaramillo@gmail.com', '3046789012', '6046789012', 'Avenida 890 #900-910', 'Masculino', 'Soltero', '1998-02-15', 1, 6, 1, 4, 4, 4, 1, 1, 1, '3', 'Mixta', 1, '2024-03-01', '2024-03-01'),
+('Blanca Posada Castaño', 'blanca.posada@univ.edu.co', 'blanca.posada@yahoo.com', '3047890123', '6047890123', 'Carrera 910 #920-930', 'Femenino', 'Casado', '2000-04-27', 2, 7, 2, 5, 5, 5, 2, 2, 1, '10', 'Virtual', 2, '2024-03-02', '2024-03-02'),
+('Edilberto Ríos Gómez', 'edilberto.rios@univ.edu.co', 'edilberto.rios@hotmail.com', '3048901234', '6048901234', 'Calle 930 #940-950', 'Masculino', 'Divorciado', '2001-06-08', 3, 8, 3, 1, 1, 1, 3, 3, 1, '6', 'Presencial', 3, '2024-03-03', '2024-03-03'),
+('Ofelia Atehortúa Palacio', 'ofelia.atehotua@univ.edu.co', 'ofelia.atehotua@gmail.com', '3049012345', '6049012345', 'Avenida 950 #960-970', 'Femenino', 'Soltero', '1999-08-20', 4, 9, 4, 2, 2, 2, 4, 4, 1, '4', 'Mixta', 4, '2024-03-04', '2024-03-04'),
+('Patricio Mendoza Londoño', 'patricio.mendoza@univ.edu.co', 'patricio.mendoza@outlook.com', '3050123456', '6050123456', 'Carrera 970 #980-990', 'Masculino', 'Viudo', '2002-10-01', 5, 10, 5, 3, 3, 3, 5, 5, 1, '9', 'Virtual', 5, '2024-03-05', '2024-03-05');
+
+-- Insertar Emprendimientos relacionados con algunos usuarios
+INSERT INTO Emprendimiento (
+    Nombre, Descripcion, TipoEmprendimiento, SectorProductivo, RedesSociales, 
+    Acompanamiento, FechaCreacion, FechaActualizacion, ActaCompromiso, 
+    EtapadeEmpedimiento_idEtapadeEmpedimiento
+) VALUES
+('TechSolutions', 'Desarrollo de aplicaciones móviles', 'Tecnológico', 'Tecnología', 1, 1, '2024-01-15', '2024-01-15', 'Acta de compromiso para desarrollo tecnológico', 1),
+('EcoVerde', 'Productos ecológicos biodegradables', 'Sostenible', 'Manufactura', 1, 1, '2024-01-16', '2024-01-16', 'Compromiso con el medio ambiente', 2),
+('Delivery Express', 'Servicio de entregas rápidas', 'Servicios', 'Comercio', 1, 0, '2024-01-17', '2024-01-17', 'Acta de servicio de delivery', 3),
+('AgroInnovación', 'Cultivos hidropónicos urbanos', 'Agrícola', 'Agricultura', 0, 1, '2024-01-18', '2024-01-18', 'Innovación en agricultura urbana', 4),
+('EduOnline', 'Plataforma de educación virtual', 'Educativo', 'Educación', 1, 1, '2024-01-19', '2024-01-19', 'Compromiso educativo digital', 5),
+('HealthCare Plus', 'Servicios de telemedicina', 'Salud', 'Salud', 1, 1, '2024-01-20', '2024-01-20', 'Atención médica virtual', 1),
+('Fashion Style', 'Ropa sostenible y moderna', 'Moda', 'Comercio', 1, 0, '2024-01-21', '2024-01-21', 'Moda consciente y responsable', 2),
+('Construction Pro', 'Construcción con materiales reciclados', 'Construcción', 'Construcción', 0, 1, '2024-01-22', '2024-01-22', 'Construcción sostenible', 3),
+('Finance Smart', 'Asesoría financiera digital', 'Financiero', 'Finanzas', 1, 1, '2024-01-23', '2024-01-23', 'Educación financiera', 4),
+('Tourism Adventures', 'Turismo ecológico y aventura', 'Turístico', 'Turismo', 1, 1, '2024-01-24', '2024-01-24', 'Turismo responsable', 5);
+
+-- Insertar Asistencias relacionadas con emprendimientos
+INSERT INTO Asisitencia (
+    FeedBack, Emprendimiento_idEmprendimiento, FechaCreacion, 
+    FechaActualizacion, Seguimientos_idSeguimientos
+) VALUES
+('Excelente progreso en desarrollo', 1, '2024-02-01', '2024-02-01', 1),
+('Necesita mejorar marketing', 2, '2024-02-02', '2024-02-02', 2),
+('Buena implementación de servicios', 3, '2024-02-03', '2024-02-03', 3),
+('Innovación destacable', 4, '2024-02-04', '2024-02-04', 4),
+('Plataforma muy prometedora', 5, '2024-02-05', '2024-02-05', 5),
+('Servicios de calidad', 6, '2024-02-06', '2024-02-06', 1),
+('Diseños creativos', 7, '2024-02-07', '2024-02-07', 2),
+('Propuesta sostenible', 8, '2024-02-08', '2024-02-08', 3),
+('Asesoría muy útil', 9, '2024-02-09', '2024-02-09', 4),
+('Experiencias inolvidables', 10, '2024-02-10', '2024-02-10', 5);
+
+-- Insertar Diagnósticos
+INSERT INTO Diagnosticos (
+    FechaEmprendimiento, AreaEstrategia, Diferencial, Planeacion, MercadoObjetivo,
+    Tendencias, Canales, DescripcionPromocion, SectoEconomico_idSectoEconomico,
+    Emprendimiento_idEmprendimiento, Presentacion, PasosElaboracion, SituacionFinanciera,
+    FuenteFinanciero, EstructuraOrganica, ConocimientoLegal, MetodologiaInnovacion,
+    HerramientaTecnologicas, Marca, AplicacionMetodologia, ImpactoAmbiental,
+    ImpactoSocial, Viabilidad
+) VALUES
+('2024-01-15', 'Tecnología', 1, 1, 'Jóvenes profesionales', 1, 1, 'Marketing digital y redes sociales', 1, 1, 1, 1, 1, 'Capital propio y inversionistas', 1, 1, 'Design Thinking y Lean Startup', 'React Native, Firebase, AWS', 'TechSolutions', 1, 1, 1, 1),
+('2024-01-16', 'Sostenibilidad', 1, 1, 'Familias conscientes', 1, 1, 'Campañas ecológicas', 4, 2, 1, 1, 0, 'Préstamo bancario', 1, 0, 'Economía circular', 'Maquinaria biodegradable', 'EcoVerde', 1, 1, 1, 1),
+('2024-01-17', 'Logística', 1, 1, 'Comercios locales', 1, 1, 'Promociones por volumen', 2, 3, 1, 1, 1, 'Capital de socios', 1, 1, 'Lean Six Sigma', 'GPS, Apps móviles', 'Delivery Express', 1, 0, 1, 1),
+('2024-01-18', 'Agricultura', 1, 1, 'Restaurantes gourmet', 1, 1, 'Productos orgánicos premium', 5, 4, 1, 1, 0, 'Subsidios gubernamentales', 1, 1, 'Agricultura 4.0', 'Sensores IoT, hidropónicos', 'AgroInnovación', 1, 1, 1, 1),
+('2024-01-19', 'Educación', 1, 1, 'Estudiantes universitarios', 1, 1, 'Cursos gratuitos iniciales', 8, 5, 1, 1, 1, 'Crowdfunding', 1, 1, 'Metodología ADDIE', 'Moodle, Zoom, AI', 'EduOnline', 1, 0, 1, 1);
+
+-- Insertar Asesorías
+INSERT INTO Asesorias (
+    Nombre_de_asesoria, Descripcion, Fecha_asesoria, Comentarios, 
+    Fecha_creacion, Fecha_actualizacion, confimacion, Usuarios_idUsuarios,
+    Modalidad_idModalidad, Fecha_y_Horarios_idFecha_y_Horarios
+) VALUES
+('Plan de Negocios', 'Desarrollo de plan de negocios', '2024-03-01 10:00:00', 'Primera sesión', '2024-02-25 08:00:00', '2024-02-25 08:00:00', 'Confirmada', 1, 1, 1),
+('Marketing Digital', 'Estrategias de marketing online', '2024-03-02 14:00:00', 'Enfoque en redes sociales', '2024-02-26 09:00:00', '2024-02-26 09:00:00', 'Pendiente', 2, 2, 2),
+('Finanzas para Emprendedores', 'Gestión financiera básica', '2024-03-03 09:00:00', 'Incluye Excel financiero', '2024-02-27 10:00:00', '2024-02-27 10:00:00', 'Confirmada', 3, 3, 3),
+('Innovación y Creatividad', 'Técnicas de innovación', '2024-03-04 15:00:00', 'Sesión práctica', '2024-02-28 11:00:00', '2024-02-28 11:00:00', 'Confirmada', 4, 4, 4),
+('Legalización de Empresas', 'Aspectos jurídicos', '2024-03-05 10:00:00', 'Documentación requerida', '2024-03-01 12:00:00', '2024-03-01 12:00:00', 'Pendiente', 5, 5, 5);
+
+-- Insertar Eventos
+INSERT INTO Eventos (
+    idEventos, Nombre_evento, Descripcion_evento, Tipo_evento_idTipo_evento,
+    Modalidad_idModalidad, Fecha_y_Horarios_idFecha_y_Horarios, Estado,
+    Capacidad_maxima, Requiere_registro, Fecha_creacion, Fecha_actualizacion
+) VALUES
+(1, 'Feria de Emprendimiento', 'Exposición de proyectos estudiantiles', 1, 1, 1, 'Activo', 200, 1, '2024-02-01 08:00:00', '2024-02-01 08:00:00'),
+(2, 'Conferencia de Innovación', 'Últimas tendencias tecnológicas', 2, 2, 2, 'Programado', 150, 1, '2024-02-02 09:00:00', '2024-02-02 09:00:00'),
+(3, 'Taller de Creatividad', 'Desarrollo de habilidades creativas', 3, 3, 3, 'Activo', 50, 1, '2024-02-03 10:00:00', '2024-02-03 10:00:00'),
+(4, 'Seminario de Finanzas', 'Educación financiera empresarial', 4, 4, 4, 'Completado', 100, 0, '2024-02-04 11:00:00', '2024-02-04 11:00:00'),
+(5, 'Festival Cultural Universitario', 'Celebración de talentos estudiantiles', 5, 5, 5, 'Programado', 300, 1, '2024-02-05 12:00:00', '2024-02-05 12:00:00');
+
+-- Insertar relaciones Usuarios_has_Eventos (primeros 25 usuarios en diferentes eventos)
+INSERT INTO Usuarios_has_Eventos (Usuarios_idUsuarios, Eventos_idEventos) VALUES
+(1, 1), (1, 2), (2, 1), (2, 3), (3, 2), (3, 4), (4, 1), (4, 5), (5, 3), (5, 4),
+(6, 1), (6, 2), (7, 2), (7, 3), (8, 1), (8, 4), (9, 3), (9, 5), (10, 2), (10, 4),
+(11, 1), (11, 3), (12, 2), (12, 5), (13, 1), (13, 4), (14, 3), (14, 5), (15, 2), (15, 1),
+(16, 4), (16, 5), (17, 1), (17, 2), (18, 3), (18, 4), (19, 1), (19, 5), (20, 2), (20, 3),
+(21, 4), (21, 1), (22, 5), (22, 2), (23, 1), (23, 3), (24, 2), (24, 4), (25, 3), (25, 5);
+
+COMMIT;
+
+-- Verificar la inserción de datos
+SELECT 'Usuarios insertados:' as Tabla, COUNT(*) as Total FROM Usuarios
+UNION ALL
+SELECT 'Emprendimientos insertados:', COUNT(*) FROM Emprendimiento
+UNION ALL  
+SELECT 'Asistencias insertadas:', COUNT(*) FROM Asisitencia
+UNION ALL
+SELECT 'Diagnósticos insertados:', COUNT(*) FROM Diagnosticos
+UNION ALL
+SELECT 'Asesorías insertadas:', COUNT(*) FROM Asesorias
+UNION ALL
+SELECT 'Eventos insertados:', COUNT(*) FROM Eventos
+UNION ALL
+SELECT 'Inscripciones a eventos:', COUNT(*) FROM Usuarios_has_Eventos;
